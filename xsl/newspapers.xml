@@ -1,0 +1,1319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+<lst name="responseHeader">
+ <int name="status">0</int>
+ <int name="QTime">1</int>
+ <lst name="params">
+  <str name="facet">true</str>
+  <arr name="sort">
+	<str>dateSearch asc</str>
+	<str>itemCategory asc</str>
+  </arr>
+  <arr name="indent">
+	<str>on</str>
+	<str>on</str>
+  </arr>
+  <arr name="rows">
+	<str>200</str>
+	<str>200</str>
+  </arr>
+  <str name="version">2.2</str>
+  <str name="fl">id,itemCategory,place,source,dateDisp,dateSearch,titleMain</str>
+  <arr name="start">
+	<str>0</str>
+	<str>0</str>
+  </arr>
+  <str name="q">itemCategory:newspaper</str>
+  <str name="facet.field">itemCategory</str>
+ </lst>
+</lst>
+<result name="response" numFound="141" start="0">
+ <doc>
+  <str name="dateDisp">October 3, 1857</str>
+  <str name="dateSearch">1857-10-03</str>
+  <str name="id">mmm.news.las.18571003</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Los Angeles, CA</str>
+  <str name="source">Los Angeles Star</str>
+  <str name="titleMain">RUMORED MASSACRE ON THE PLAINS</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">October 10, 1857</str>
+  <str name="dateSearch">1857-10-10</str>
+  <str name="id">mmm.news.las.18571010.2a</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Los Angeles, CA</str>
+  <str name="source">Los Angeles Star</str>
+  <str name="titleMain">THE LATE HORRIBLE MASSACRE</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">October 10, 1857</str>
+  <str name="dateSearch">1857-10-10</str>
+  <str name="id">mmm.news.las.18571010.2</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Los Angeles, CA</str>
+  <str name="source">Los Angeles Star</str>
+  <str name="titleMain">Untitled [By the arrival of the mail]</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">October 10, 1857</str>
+  <str name="dateSearch">1857-10-10</str>
+  <str name="id">mmm.news.las.18571010</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Los Angeles, CA</str>
+  <str name="source">Los Angeles Star</str>
+  <str name="titleMain">HORRIBLE MASSACRE OF EMIGRANTS!! OVER 100 PERSONS MURDERED!! Confirmation of the Report</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">October 12, 1857</str>
+  <str name="dateSearch">1857-10-12</str>
+  <str name="id">mmm.news.sfh.18571012a</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">San Francisco, CA</str>
+  <str name="source">San Francisco Herald</str>
+  <str name="titleMain">TOPICS OF THE DAY</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">October 13, 1857</str>
+  <str name="dateSearch">1857-10-13</str>
+  <str name="id">mmm.news.las.18571013</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Los Angeles, CA</str>
+  <str name="source">Los Angeles Star</str>
+  <str name="titleMain">PUBLIC MEETING</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">October 15, 1857</str>
+  <str name="dateSearch">1857-10-15</str>
+  <str name="id">mmm.news.sfh.18571015</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">San Francisco, CA</str>
+  <str name="source">San Francisco Herald</str>
+  <str name="titleMain">THE EMIGRANT MASSACRE</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">October 17, 1857</str>
+  <str name="dateSearch">1857-10-17</str>
+  <str name="id">mmm.news.dac.18571017</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">San Francisco, CA</str>
+  <str name="source">Daily Alta California</str>
+  <str name="titleMain">THE IMMIGRANT MASSACRE</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">October 17, 1857</str>
+  <str name="dateSearch">1857-10-17</str>
+  <str name="id">mmm.news.las.18571017</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Los Angeles, CA</str>
+  <str name="source">Los Angeles Star</str>
+  <str name="titleMain">THE DUTY OF THE GOVERNMENT</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">October 17, 1857</str>
+  <str name="dateSearch">1857-10-17</str>
+  <str name="id">mmm.news.sfh.18571017</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">San Francisco, CA</str>
+  <str name="source">San Francisco Herald</str>
+  <str name="titleMain">Untitled [There can no longer be any doubt . . .]</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">October 21, 1857</str>
+  <str name="dateSearch">1857-10-21</str>
+  <str name="id">mmm.news.sfh.18571021</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">San Francisco, CA</str>
+  <str name="source">San Francisco Herald</str>
+  <str name="titleMain">PERILS OF THE PLAINS: THE MORMONS AND THE LATE MASSACRE</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">October 23, 1857</str>
+  <str name="dateSearch">1857-10-23</str>
+  <str name="id">mmm.news.ws.18571023a</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">San Francisco, CA</str>
+  <str name="source">Western Standard</str>
+  <str name="titleMain">Massacre of Emigrants-Reckless and Malignant Slanders</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">October 23, 1857</str>
+  <str name="dateSearch">1857-10-23</str>
+  <str name="id">mmm.news.ws.18571023b</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">San Francisco, CA</str>
+  <str name="source">Western Standard</str>
+  <str name="titleMain">Since the arrival of the last Utah mail</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">October 24, 1857</str>
+  <str name="dateSearch">1857-10-24</str>
+  <str name="id">mmm.news.las.18571024b</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Los Angeles, CA</str>
+  <str name="source">Los Angeles Star</str>
+  <str name="titleMain">MORE OUTRAGES ON THE PLAINS!! </str>
+ </doc>
+ <doc>
+  <str name="dateDisp">October 24, 1857</str>
+  <str name="dateSearch">1857-10-24</str>
+  <str name="id">mmm.news.las.18571107</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Los Angeles, CA</str>
+  <str name="source">Los Angeles Star</str>
+  <str name="titleMain">THE LATE OUTRAGES ON THE PLAINS-FURTHER PARTICULARS</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">October 27, 1857</str>
+  <str name="dateSearch">1857-10-27</str>
+  <str name="id">mmm.news.ac.18571027</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">San Francsico, CA</str>
+  <str name="source">Daily Alta California</str>
+  <str name="titleMain">LATER FROM THE SOUTH: THE MURDERS AT  MOUNTAIN CANON CONFIRMED</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">October 27, 1857</str>
+  <str name="dateSearch">1857-10-27</str>
+  <str name="id">mmm.news.dac.18571027</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">San Francisco, CA</str>
+  <str name="source">Daily Alta California</str>
+  <str name="titleMain">LATER FROM THE SOUTH: THE MURDERS AT  MOUNTAIN CANON CONFIRMED</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">October 27, 1857</str>
+  <str name="dateSearch">1857-10-27</str>
+  <str name="id">mmm.news.sfh.18571027</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">San Francisco, CA</str>
+  <str name="source">San Francisco Herald</str>
+  <str name="titleMain">Untitled [From the news published in another
+                    column]</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">October 31, 1857</str>
+  <str name="dateSearch">1857-10-31</str>
+  <str name="id">mmm.news.las.18571031</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Los Angeles, CA</str>
+  <str name="source">Los Angeles Star</str>
+  <str name="titleMain">The Late Outrages On The Plains Another Account</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">November 1, 1857</str>
+  <str name="dateSearch">1857-11-01</str>
+  <str name="id">mmm.news.dac.18571101</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">San Francisco, CA</str>
+  <str name="source">Daily Alta California</str>
+  <str name="titleMain">LETTER FROM ANGEL'S CAMP</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">November 4, 1857</str>
+  <str name="dateSearch">1857-11-04</str>
+  <str name="id">mmm.news.nd.18571104</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Nevada City, CA</str>
+  <str name="source">Nevada Democrat</str>
+  <str name="titleMain">The Late Massacre on the Plains-Additional Particulars</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">November 6, 1857</str>
+  <str name="dateSearch">1857-11-06</str>
+  <str name="id">mmm.news.ws.18571106a</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">San Francisco, CA</str>
+  <str name="source">Western Standard</str>
+  <str name="titleMain">Killing of Immigrants</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">November 6, 1857</str>
+  <str name="dateSearch">1857-11-06</str>
+  <str name="id">mmm.news.ws.18571106b</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">San Francisco, CA</str>
+  <str name="source">Western Standard</str>
+  <str name="titleMain">THE news brought from the East by the John L. 	Stephens</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">November 6, 1857</str>
+  <str name="dateSearch">1857-11-06</str>
+  <str name="id">mmm.news.ws.18571106</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">San Francisco, CA</str>
+  <str name="source">Western Standard</str>
+  <str name="titleMain">Killing of Immigrants</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">November 7, 1857</str>
+  <str name="dateSearch">1857-11-07</str>
+  <str name="id">mmm.news.las.18571107.1</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Los Angeles, CA</str>
+  <str name="source">Los Angeles Star</str>
+  <str name="titleMain">ARRIVAL OF THE MAIL FROM SALT LAKE CITY.</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">November 7, 1857</str>
+  <str name="dateSearch">1857-11-07</str>
+  <str name="id">mmm.news.las.18571107.2</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Los Angeles, CA</str>
+  <str name="source">Los Angeles Star</str>
+  <str name="titleMain">ARRIVAL OF THE SALT LAKE MAIL</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">November 7, 1857</str>
+  <str name="dateSearch">1857-11-07</str>
+  <str name="id">mmm.news.las.18571107.3</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Los Angeles, CA</str>
+  <str name="source">Los Angeles Star</str>
+  <str name="titleMain">MORE OUTRAGES</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">November 9, 1857</str>
+  <str name="dateSearch">1857-11-09</str>
+  <str name="id">mmm.news.dch.18571109</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Cleveland, OH</str>
+  <str name="source">The Daily Cleveland Herald</str>
+  <str name="titleMain">Horrible Massacre of Emigrants-Over 100 Persons Killed</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">November 12, 1857</str>
+  <str name="dateSearch">1857-11-12</str>
+  <str name="id">mmm.news.cdt.18571112</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Chicago, IL</str>
+  <str name="source">Chicago Daily Tribune</str>
+  <str name="titleMain">Horrible Massacre of Emigrants by Indians</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">November 12, 1857</str>
+  <str name="dateSearch">1857-11-12</str>
+  <str name="id">mmm.news.sfeb.18571112</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">San Francisco, CA</str>
+  <str name="source">San Francisco Evening Bulletin</str>
+  <str name="titleMain">Letter From San Bernardino</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">November 14, 1857</str>
+  <str name="dateSearch">1857-11-14</str>
+  <str name="id">mmm.news.las.18571114</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Los Angeles, CA</str>
+  <str name="source">Los Angeles Star</str>
+  <str name="titleMain">Affairs In Utah</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">November 17, 1857</str>
+  <str name="dateSearch">1857-11-17</str>
+  <str name="id">mmm.news.nyt.18571117</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Times</str>
+  <str name="titleMain">Horrible Massacre of Arkansas and Missouri Emigrants</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">November 18, 1857</str>
+  <str name="dateSearch">1857-11-18</str>
+  <str name="id">mmm.news.wrr.18571118</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Raleigh, NC</str>
+  <str name="source">The Weekly Raleigh Register</str>
+  <str name="titleMain">HORRIBLE MASSACRE OF EMIGRANTS-OVER ONE HUNDRED PERSONS KILLED.</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">November 20, 1857</str>
+  <str name="dateSearch">1857-11-20</str>
+  <str name="id">mmm.news.nyt.18571120</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Times</str>
+  <str name="titleMain">LATEST INTELLIGENCE</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">November 21, 1857</str>
+  <str name="dateSearch">1857-11-21</str>
+  <str name="id">mmm.news.cdt.18571121</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Chicago, IL</str>
+  <str name="source">Chicago Daily Tribune</str>
+  <str name="titleMain">The Mormon Outrages</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">November 30, 1857</str>
+  <str name="dateSearch">1857-11-30</str>
+  <str name="id">mmm.news.nyh.18571130</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Herald</str>
+  <str name="titleMain">Mountain Meadows Massacre</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">November 30, 1857</str>
+  <str name="dateSearch">1857-11-30</str>
+  <str name="id">mmm.news.nyt.18571130</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Times</str>
+  <str name="titleMain">ARRIVAL OF THE NORTHERN LIGHT.</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">December 2, 1857</str>
+  <str name="dateSearch">1857-12-02</str>
+  <str name="id">mmm.news.ch.18571202</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Cleveland, OH</str>
+  <str name="source">Mormons and Indians Butchering Emigrants</str>
+  <str name="titleMain">Mormons and Indians Butchering Emigrants</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">December 2, 1857</str>
+  <str name="dateSearch">1857-12-02</str>
+  <str name="id">mmm.news.on.18571202</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Omaha, NE</str>
+  <str name="source">Omaha Nebraskian</str>
+  <str name="titleMain">The Mormon Outrages</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">December 4, 1857</str>
+  <str name="dateSearch">1857-12-04</str>
+  <str name="id">mmm.news.cdt.18571204a</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Chicago, IL</str>
+  <str name="source">Chicago Daily Tribune</str>
+  <str name="titleMain">Terrible Massacre of Emigrants by the Mormons and Indians</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">December 4, 1857</str>
+  <str name="dateSearch">1857-12-04</str>
+  <str name="id">mmm.news.cdt.18571204b</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Chicago, IL</str>
+  <str name="source">Chicago Daily Tribune</str>
+  <str name="titleMain">Murderous Outrages by the Mormons and their Indian Allies Confirmed</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">December 4, 1857</str>
+  <str name="dateSearch">1857-12-04</str>
+  <str name="id">mmm.news.nyh.18571204</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Herald</str>
+  <str name="titleMain">Complicity of the Mormons in the Late Emigrant Massacre-the Indians Were Tools in the Hands of the Saints</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">December 4, 1857</str>
+  <str name="dateSearch">1857-12-04</str>
+  <str name="id">mmm.news.smn.18571204</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Savannah, GA</str>
+  <str name="source">Later from the Plains.</str>
+  <str name="titleMain">Later from the Plains.</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">December 5, 1857</str>
+  <str name="dateSearch">1857-12-05</str>
+  <str name="id">mmm.news.dcs.18571205</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Augusta, GA</str>
+  <str name="source">Daily Chronicle &amp; Sentinel</str>
+  <str name="titleMain">THE LATE MASSACRE OF EMIGRANTS IN THE MORMON SETTLEMENTS</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">December 5, 1857</str>
+  <str name="dateSearch">1857-12-05</str>
+  <str name="id">mmm.news.so.18571205</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salem, MA</str>
+  <str name="source">The Salem Observer</str>
+  <str name="titleMain">THE MORMONS AND THE MURDERED EMIGRANTS</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">December 7, 1857</str>
+  <str name="dateSearch">1857-12-07</str>
+  <str name="id">mmm.news.mds.18571207</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Milwaukee, WI</str>
+  <str name="source">Mormons and Indians Butchering Emigrants</str>
+  <str name="titleMain">Mormons and Indians Butchering Emigrants</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">December 9, 1857</str>
+  <str name="dateSearch">1857-12-09</str>
+  <str name="id">mmm.news.dn.18571209</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Deseret News</str>
+  <str name="titleMain">THE CALIFORNIA MAIL</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">December 11, 1857</str>
+  <str name="dateSearch">1857-12-11</str>
+  <str name="id">mmm.news.dni.18571211</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Washington, DC</str>
+  <str name="source">Daily National Intelligencer</str>
+  <str name="titleMain">THE LATE EMIGRANT MASSACRE EXAGGERATED</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">December 12, 1857</str>
+  <str name="dateSearch">1857-12-12</str>
+  <str name="id">mmm.news.las.18571212a</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Los Angeles, CA</str>
+  <str name="source">Los Angeles Star</str>
+  <str name="titleMain">Letter to the Editor</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">December 12, 1857</str>
+  <str name="dateSearch">1857-12-12</str>
+  <str name="id">mmm.news.las.18571212</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Los Angeles, CA</str>
+  <str name="source">Los Angeles Star</str>
+  <str name="titleMain">PUBLIC MEETING</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">February 4, 1858</str>
+  <str name="dateSearch">1858-02-04</str>
+  <str name="id">mmm.news.nyt.18580204</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Times</str>
+  <str name="titleMain">THE UTAH EXPEDITION</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">February 18, 1858</str>
+  <str name="dateSearch">1858-02-18</str>
+  <str name="id">mmm.news.asgd.18580218</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Little Rock, AR</str>
+  <str name="source">Arkansas State Gazette and Democrat</str>
+  <str name="titleMain">Extract from a letter [from] Carroll Co.</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">March 18, 1858</str>
+  <str name="dateSearch">1858-03-18</str>
+  <str name="id">mmm.news.cg.18580318</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Washington, DC</str>
+  <str name="source">The Congressional Globe</str>
+  <str name="titleMain">Massacre Of Emigrants to California</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">March 19, 1858</str>
+  <str name="dateSearch">1858-03-19</str>
+  <str name="id">mmm.news.cg.18580319</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Washington, DC</str>
+  <str name="source">The Congressional Globe</str>
+  <str name="titleMain">Massacre of California Emigrants</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">April 3, 1858</str>
+  <str name="dateSearch">1858-04-03</str>
+  <str name="id">mmm.news.bc.18580403</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Boston, MA</str>
+  <str name="source">Boston Cultivator</str>
+  <str name="titleMain">Mountain Meadows Massacre</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">April 17, 1858</str>
+  <str name="dateSearch">1858-04-17</str>
+  <str name="id">mmm.news.asgd.18580417</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Little Rock, AR</str>
+  <str name="source">Arkansas State Gazette and Democrat</str>
+  <str name="titleMain">MEETING IN NEWTON COUNTY</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">May 27, 1858</str>
+  <str name="dateSearch">1858-05-27</str>
+  <str name="id">mmm.news.asgd.18580227</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Little Rock, AR</str>
+  <str name="source">Arkansas State Gazette and Democrat</str>
+  <str name="titleMain">Public Meeting of the People of Carroll County</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">May 29, 1858</str>
+  <str name="dateSearch">1858-05-29</str>
+  <str name="id">mmm.news.sv.18580529</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Los Angeles, CA</str>
+  <str name="source">Southern Vineyard</str>
+  <str name="titleMain">The Federal Government and Utah</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">July 8, 1858</str>
+  <str name="dateSearch">1858-07-08</str>
+  <str name="id">mmm.news.nyt.18580708</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Times</str>
+  <str name="titleMain">INTERESTING FROM UTAH</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">August 3, 1858</str>
+  <str name="dateSearch">1858-08-03</str>
+  <str name="id">mmm.news.nyt.18580803</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Times</str>
+  <str name="titleMain">UTAH General Description of Salt Lake Valley.</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">August 12, 1858</str>
+  <str name="dateSearch">1858-08-12</str>
+  <str name="id">mmm.news.sfeb.18580812</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">San Francisco, CA</str>
+  <str name="source">San Francisco Daily Evening Bulletin</str>
+  <str name="titleMain">Morman Agency In Last Year's Massacre At Mountain Meadows</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">February 15, 1859</str>
+  <str name="dateSearch">1859-02-15</str>
+  <str name="id">mmm.news.vt.18590215</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Valley Tan</str>
+  <str name="titleMain">Mountain Meadows Massacre</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">March 15, 1859</str>
+  <str name="dateSearch">1859-03-15</str>
+  <str name="id">mmm.news.vt.18590315</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Valley Tan</str>
+  <str name="titleMain">CHARGE</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">March 29, 1859</str>
+  <str name="dateSearch">1859-03-29</str>
+  <str name="id">mmm.news.nyt.18590329</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Times</str>
+  <str name="titleMain">From Salt Lake</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">March 29, 1859</str>
+  <str name="dateSearch">1859-03-29</str>
+  <str name="id">mmm.news.vt.18590329a</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Valley Tan</str>
+  <str name="titleMain">Discharge of the Grand Jury</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">March 29, 1859</str>
+  <str name="dateSearch">1859-03-29</str>
+  <str name="id">mmm.news.vt.18590329</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Valley Tan</str>
+  <str name="titleMain">The Church Organ</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">April 5, 1859</str>
+  <str name="dateSearch">1859-04-05</str>
+  <str name="id">mmm.news.vt.18590405a</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Valley Tan</str>
+  <str name="titleMain">Second Judicial District Court</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">April 5, 1859</str>
+  <str name="dateSearch">1859-04-05</str>
+  <str name="id">mmm.news.vt.18590405</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Valley Tan</str>
+  <str name="titleMain">Discharge of the Grand Jury</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">April 7, 1859</str>
+  <str name="dateSearch">1859-04-07</str>
+  <str name="id">mmm.news.sfdeb.18590407</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">San Francisco, CA</str>
+  <str name="source">San Francisco Daily Evening Bulletin</str>
+  <str name="titleMain">THE MOUNTAIN MEADOWS MASSACRE</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">April 23, 1859</str>
+  <str name="dateSearch">1859-04-23</str>
+  <str name="id">mmm.news.sfdeb.18590423a</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">San Francisco, CA</str>
+  <str name="source">San Francisco Daily Evening Bulletin</str>
+  <str name="titleMain">THE MOUNTAIN MEADOWS MASSACRE-A TALE OF HORROR</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">April 23, 1859</str>
+  <str name="dateSearch">1859-04-23</str>
+  <str name="id">mmm.news.sfdeb.18590423</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">San Francisco, CA</str>
+  <str name="source">San Francisco Daily Evening Bulletin</str>
+  <str name="titleMain">CRIMINAL BLUNDERING IN UTAH</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">April 26, 1859</str>
+  <str name="dateSearch">1859-04-26</str>
+  <str name="id">mmm.news.vt.18590426</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Valley Tan</str>
+  <str name="titleMain">Untitled [And there have been more murders committed . . .]</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">April 27, 1859</str>
+  <str name="dateSearch">1859-04-27</str>
+  <str name="id">mmm.news.nyt.18590427</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Times</str>
+  <str name="titleMain">NEWS BY TELEGRAPH</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">April 29, 1859</str>
+  <str name="dateSearch">1859-04-29</str>
+  <str name="id">mmm.news.nyt.18590429</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Times</str>
+  <str name="titleMain">IMPORTANT FROM UTAH</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">May 3, 1859</str>
+  <str name="dateSearch">1859-05-03</str>
+  <str name="id">mmm.news.vt.18590503</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Valley Tan</str>
+  <str name="titleMain">PERSONAL</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">May 10, 1859</str>
+  <str name="dateSearch">1859-05-10</str>
+  <str name="id">mmm.news.vt.18590510</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Valley Tan</str>
+  <str name="titleMain">The Man for the Emergency</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">May 11, 1859</str>
+  <str name="dateSearch">1859-05-11</str>
+  <str name="id">mmm.news.dn.18590511</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Desert News</str>
+  <str name="titleMain">VISIT OF THE SUPERINTENDENT OF INDIAN AFFAIRS TO SOUTHERN UTAH.</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">May 31, 1859</str>
+  <str name="dateSearch">1859-05-31</str>
+  <str name="id">mmm.news.sfdeb.18590531</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">San Francisco, CA</str>
+  <str name="source">San Francisco Daily Evening Bulletin</str>
+  <str name="titleMain">The Mountain Meadows Massacre</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">June 4, 1859</str>
+  <str name="dateSearch">1859-06-04</str>
+  <str name="id">mmm.news.nyt.18590604</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Times</str>
+  <str name="titleMain">Utah Affairs</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">June 9, 1859</str>
+  <str name="dateSearch">1859-06-09</str>
+  <str name="id">mmm.news.nyt.18590609a</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Times</str>
+  <str name="titleMain">Sixteen White Children Recovered from the Indains.</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">June 9, 1859</str>
+  <str name="dateSearch">1859-06-09</str>
+  <str name="id">mmm.news.nyt.18590609b</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Times</str>
+  <str name="titleMain">FROM UTAH</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">June 16, 1859</str>
+  <str name="dateSearch">1859-06-16</str>
+  <str name="id">mmm.news.cpt.18590616</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Chicago, IL</str>
+  <str name="source">Chicago Press and Tribune</str>
+  <str name="titleMain">A TALE OF HORROR</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">June 22, 1859</str>
+  <str name="dateSearch">1859-06-22</str>
+  <str name="id">mmm.news.vt.18590622</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Valley Tan</str>
+  <str name="titleMain">The Judge Strong on Hanging</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">June 29, 1859</str>
+  <str name="dateSearch">1859-06-29</str>
+  <str name="id">mmm.news.dn.18590629</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Deseret News</str>
+  <str name="titleMain">AFFAIRS IN UTAH!!</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">June 29, 1859</str>
+  <str name="dateSearch">1859-06-29</str>
+  <str name="id">mmm.news.nyt.18590629</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Times</str>
+  <str name="titleMain">FROM UTAH.</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">July 7, 1859</str>
+  <str name="dateSearch">1859-07-07</str>
+  <str name="id">mmm.news.cpt.18590707</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Chicago, IL</str>
+  <str name="source">Chicago Press and Tribune</str>
+  <str name="titleMain">THE MORMON PROBLEM</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">July 7, 1859</str>
+  <str name="dateSearch">1859-07-07</str>
+  <str name="id">mmm.news.nyt.18590707</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Times</str>
+  <str name="titleMain">FROM UTAH.</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">July 11, 1859</str>
+  <str name="dateSearch">1859-07-11</str>
+  <str name="id">mmm.news.cdt.18590711</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Chicago, IL</str>
+  <str name="source">Chicago Daily Tribune</str>
+  <str name="titleMain">The Mountain Meadow Massacre</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">July 11, 1859</str>
+  <str name="dateSearch">1859-07-11</str>
+  <str name="id">mmm.news.cpt.18590711</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Chicago, IL</str>
+  <str name="source">Chicago Press and Tribune</str>
+  <str name="titleMain">Mountain Meadows Massacre</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">July 27, 1859</str>
+  <str name="dateSearch">1859-07-27</str>
+  <str name="id">mmm.news.nyt.18590727</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Times</str>
+  <str name="titleMain">FROM UTAH</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">August 8, 1859</str>
+  <str name="dateSearch">1859-08-08</str>
+  <str name="id">mmm.news.harpers.18590813</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">Harper's Weekly</str>
+  <str name="titleMain">THE MASSACRE AT MOUNTAIN MEADOWS, UTAH TERRITORY</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">August 25, 1859</str>
+  <str name="dateSearch">1859-08-25</str>
+  <str name="id">mmm.news.sfdeb.18590825</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">San Francisco, CA</str>
+  <str name="source">San Fransisco Daily Evening Bulletin</str>
+  <str name="titleMain">Revolution of Affairs in Mormondom</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">August 26, 1859</str>
+  <str name="dateSearch">1859-08-26</str>
+  <str name="id">mmm.news.cpt.18590826</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Chicago, IL</str>
+  <str name="source">Chicago Press and Tribune</str>
+  <str name="titleMain">HORACE GREELEY IN UTAH</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">September 8, 1859</str>
+  <str name="dateSearch">1859-09-08</str>
+  <str name="id">mmm.news.co.18590908</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Philadelphia, PA</str>
+  <str name="source">Christian Observer</str>
+  <str name="titleMain">THE MASSACRE AT MOUNTAIN MEADOWS.</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">September 24, 1859</str>
+  <str name="dateSearch">1859-09-24</str>
+  <str name="id">mmm.news.asgd.18590924</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Little Rock, AR</str>
+  <str name="source">Arkansas State Gazette and Democrat</str>
+  <str name="titleMain">Extract from a letter to this office, dated "MT. PLEASANT, CARROLL, CO., ARK."</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">December 21, 1859</str>
+  <str name="dateSearch">1859-12-21</str>
+  <str name="id">mmm.news.dn.18591221</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Desert News</str>
+  <str name="titleMain">Inefficiency of Federal Authorities</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">August 7, 1860</str>
+  <str name="dateSearch">1860-08-07</str>
+  <str name="id">mmm.news.nyt.18600807</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Times</str>
+  <str name="titleMain">AFFAIRS IN UTAH.</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">June 8, 1864</str>
+  <str name="dateSearch">1864-06-08</str>
+  <str name="id">mmm.news.uv.18640608</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Camp Douglas, UT</str>
+  <str name="source">Union Vedette</str>
+  <str name="titleMain">UNTITLED</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">June 30, 1864</str>
+  <str name="dateSearch">1864-06-30</str>
+  <str name="id">mmm.news.uv.18640630</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Camp Douglas, UT</str>
+  <str name="source">Union Vedette</str>
+  <str name="titleMain">Our Notes of Travel Continued</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">December 24, 1864</str>
+  <str name="dateSearch">1864-12-24</str>
+  <str name="id">mmm.news.uv.18641224</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Camp Douglas, UT</str>
+  <str name="source">Union Vedette</str>
+  <str name="titleMain">Worse Than </str>
+ </doc>
+ <doc>
+  <str name="dateDisp">February 3, 1865</str>
+  <str name="dateSearch">1865-02-03</str>
+  <str name="id">mmm.news.uv.18650203</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Camp Douglas, UT</str>
+  <str name="source">Union Vedette</str>
+  <str name="titleMain">Causes and Effects.</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">February 7, 1865</str>
+  <str name="dateSearch">1865-02-07</str>
+  <str name="id">mmm.news.uv.18650207</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Camp Douglas, UT</str>
+  <str name="source">Union Vedette</str>
+  <str name="titleMain">Reasons why Utah Should not be Admitted into the Family of States.</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">February 10, 1865</str>
+  <str name="dateSearch">1865-02-10</str>
+  <str name="id">mmm.news.uv.18650210</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Camp Douglas, UT</str>
+  <str name="source">Union Vedette</str>
+  <str name="titleMain">Murdered Innocents.</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">June 28, 1866</str>
+  <str name="dateSearch">1866-06-28</str>
+  <str name="id">mmm.news.dn.18660628</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Deseret News</str>
+  <str name="titleMain">Mistakes and Corrections</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">July 27, 1866</str>
+  <str name="dateSearch">1866-07-27</str>
+  <str name="id">mmm.news.uv.18660727</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Camp Douglas, UT</str>
+  <str name="source">Union Vedette</str>
+  <str name="titleMain">Mountain Meadow Massacre</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">July 28, 1866</str>
+  <str name="dateSearch">1866-07-28</str>
+  <str name="id">mmm.news.uv.18660728</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Camp Douglas, UT</str>
+  <str name="source">Union Vedette</str>
+  <str name="titleMain">The Mountain Meadow Massacre</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">August 20, 1866</str>
+  <str name="dateSearch">1866-08-20</str>
+  <str name="id">mmm.news.uv.18660820</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Camp Douglas, UT</str>
+  <str name="source">Union Vedette</str>
+  <str name="titleMain">CRIME IN UTAH</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">December 24, 1866</str>
+  <str name="dateSearch">1866-12-24</str>
+  <str name="id">mmm.news.uv.18661224</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Camp Douglas, UT</str>
+  <str name="source">Union Vedette</str>
+  <str name="titleMain">Local and Miscellaneous</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">February 16, 1867</str>
+  <str name="dateSearch">1867-02-16</str>
+  <str name="id">mmm.news.uv.18670216</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Camp Douglas, UT</str>
+  <str name="source">Union Vedette</str>
+  <str name="titleMain">Report on Utah Affairs</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">February 20, 1867</str>
+  <str name="dateSearch">1867-02-20</str>
+  <str name="id">mmm.news.dn.18670220</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Deseret News</str>
+  <str name="titleMain">Report of General Babcock</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">June 14, 1867</str>
+  <str name="dateSearch">1867-06-14</str>
+  <str name="id">mmm.news.uv.18670614</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Camp Douglas, UT</str>
+  <str name="source">Union Vedette</str>
+  <str name="titleMain">Libels on Mormonism</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">July 17, 1867</str>
+  <str name="dateSearch">1867-07-17</str>
+  <str name="id">mmm.news.uv.18670717</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Camp Douglas, UT</str>
+  <str name="source">Union Vedette</str>
+  <str name="titleMain">Mormonism Defined</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">November 1, 1869</str>
+  <str name="dateSearch">1869-11-01</str>
+  <str name="id">mmm.news.pmp.18691101</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Philadelphia, PA</str>
+  <str name="source">Philadelphia Morning Post</str>
+  <str name="titleMain">Utah: A Second Interview with Brigham Young, Jr.</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">December 1, 1869</str>
+  <str name="dateSearch">1869-12-01</str>
+  <str name="id">mmm.news.dn.18691201</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Deseret News</str>
+  <str name="titleMain">Mountain Meadows Massacre</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">September 11, 1871</str>
+  <str name="dateSearch">1871-09-11</str>
+  <str name="id">mmm.news.ct.18710911</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Chicago, IL</str>
+  <str name="source">Chicago Tribune</str>
+  <str name="titleMain">UTAH:The Emma Mine Case and the Politicians.</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">February 28, 1872</str>
+  <str name="dateSearch">1872-02-28</str>
+  <str name="id">mmm.news.dn.18720228</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Deseret News</str>
+  <str name="titleMain">Excerpt from "Territorial Convention."</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">May 22, 1872</str>
+  <str name="dateSearch">1872-05-22</str>
+  <str name="id">mmm.news.dn.18720522</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Deseret News</str>
+  <str name="titleMain">From Salt Lake City</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">September 14, 1872</str>
+  <str name="dateSearch">1872-09-14</str>
+  <str name="id">mmm.news.nyt.18720914</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Times</str>
+  <str name="titleMain">A MASSACRE BY MORMONS.</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">September 16, 1872</str>
+  <str name="dateSearch">1872-09-16</str>
+  <str name="id">mmm.news.dcr.18720916</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Corrine, UT</str>
+  <str name="source">Daily Corrine Reporter</str>
+  <str name="titleMain">The Mormon Press on Mountain Meadow</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">September 17, 1872</str>
+  <str name="dateSearch">1872-09-17</str>
+  <str name="id">mmm.news.cdt.18720917</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Chicago, IL</str>
+  <str name="source">Chicago Daily Tribune</str>
+  <str name="titleMain">Untitled</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">September 18, 1872</str>
+  <str name="dateSearch">1872-09-18</str>
+  <str name="id">mmm.news.dn.18720918.2</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Deseret News</str>
+  <str name="titleMain">Special To The Deseret News</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">September 19, 1872</str>
+  <str name="dateSearch">1872-09-19</str>
+  <str name="id">mmm.news.nye.18720919</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Evangelist</str>
+  <str name="titleMain">CURRENT EVENTS.</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">September 20, 1872</str>
+  <str name="dateSearch">1872-09-20</str>
+  <str name="id">mmm.news.dcr.18720920</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Corrine, UT</str>
+  <str name="source">Daily Corrine Reporter</str>
+  <str name="titleMain">Mountain Meadow Massacre</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">September 23, 1872</str>
+  <str name="dateSearch">1872-09-23</str>
+  <str name="id">mmm.news.ct.18720923</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Chicago, IL</str>
+  <str name="source">Chicago Tribune</str>
+  <str name="titleMain">Personal-The Mountain Meadows Massacre</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">September 23, 1872</str>
+  <str name="dateSearch">1872-09-23</str>
+  <str name="id">mmm.news.slt.18720923</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Salt Lake Tribune</str>
+  <str name="titleMain">As Ye Sow, Ye Shall Reap</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">September 24, 1872</str>
+  <str name="dateSearch">1872-09-24</str>
+  <str name="id">mmm.news.dcr.18720924</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Corrine, UT</str>
+  <str name="source">Daily Corrine Reporter</str>
+  <str name="titleMain">MOUNTAIN MEADOW MASSACRE.</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">September 26, 1872</str>
+  <str name="dateSearch">1872-09-26</str>
+  <str name="id">mmm.news.nyt.18720926</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Times</str>
+  <str name="titleMain">Evidence on the Mountain Meadow Massacre.</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">September 30, 1872</str>
+  <str name="dateSearch">1872-09-30</str>
+  <str name="id">mmm.news.ct.18720930</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Chicago, IL</str>
+  <str name="source">Chicago Tribune</str>
+  <str name="titleMain">Mormon Conferences-Railroad Enterprises-The Mountain Meadow Massacre-Suits to be Commenced</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">September 30, 1872</str>
+  <str name="dateSearch">1872-09-30</str>
+  <str name="id">mmm.news.nyt.18720930</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Times</str>
+  <str name="titleMain">UTAH. The  Mormon Conference-Railroad Extensions-The Mountain Meadow Massacre</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">November 8, 1872</str>
+  <str name="dateSearch">1872-11-08</str>
+  <str name="id">mmm.news.slt.18721108</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Salt Lake Tribune</str>
+  <str name="titleMain">The People's Column "Mountain Meadows Massacre"</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">January 30, 1873</str>
+  <str name="dateSearch">1873-01-30</str>
+  <str name="id">mmm.news.sldt.18730130</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Salt Lake Daily Tribune</str>
+  <str name="titleMain">Lecture</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">May 18, 1873</str>
+  <str name="dateSearch">1873-05-18</str>
+  <str name="id">mmm.news.ct.18730518</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Chicago, IL</str>
+  <str name="source">Chicago Tribune</str>
+  <str name="titleMain">Mountain-Life</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">November 13, 1874</str>
+  <str name="dateSearch">1874-11-13</str>
+  <str name="id">mmm.news.cdt.18741113</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Chicago, IL</str>
+  <str name="source">Chicago Daily Tribune</str>
+  <str name="titleMain">The Mountain Meadows Massacre</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">November 13, 1874</str>
+  <str name="dateSearch">1874-11-13</str>
+  <str name="id">mmm.news.nyt.18741113</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Times</str>
+  <str name="titleMain">THE MORMONS</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">May 12, 1875</str>
+  <str name="dateSearch">1875-05-12</str>
+  <str name="id">mmm.news.slt.18750512</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Salt Lake Tribune</str>
+  <str name="titleMain">Mountain Meadows Massacre</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">July 24, 1875</str>
+  <str name="dateSearch">1875-07-24</str>
+  <str name="id">mmm.news.nyt.18750724</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Times</str>
+  <str name="titleMain">MOUNTAIN MEADOWS.</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">July 24, 1875</str>
+  <str name="dateSearch">1875-07-24</str>
+  <str name="id">mmm.news.slt.18750724</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Salt Lake Tribune</str>
+  <str name="titleMain">The Lee Trial</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">July 30, 1875</str>
+  <str name="dateSearch">1875-07-30</str>
+  <str name="id">mmm.news.nyt.18750730</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Times</str>
+  <str name="titleMain">THE MOUNTAIN MEADOW MASSACRE.</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">August 17, 1875</str>
+  <str name="dateSearch">1875-08-17</str>
+  <str name="id">mmm.news.slt.18750817</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Salt Lake City, UT</str>
+  <str name="source">Salt Lake Tribune</str>
+  <str name="titleMain">Blood Atonement</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">September 1, 1875</str>
+  <str name="dateSearch">1875-09-01</str>
+  <str name="id">mmm.news.dag.18750901</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">Little Rock, AR</str>
+  <str name="source">Daily Arkansas Gazette</str>
+  <str name="titleMain">The Mountain Meadow Massacre: Statement of one of the Few Survivors</str>
+ </doc>
+ <doc>
+  <str name="dateDisp">May 6, 1989</str>
+  <str name="dateSearch">1989-05-06</str>
+  <str name="id">mmm.news.nyt.18590506</str>
+  <str name="itemCategory">newspaper</str>
+  <str name="place">New York, NY</str>
+  <str name="source">New York Times</str>
+  <str name="titleMain">THE UTAH MASSACRES</str>
+ </doc>
+</result>
+<lst name="facet_counts">
+ <lst name="facet_queries"/>
+ <lst name="facet_fields">
+  <lst name="itemCategory">
+	<int name="newspaper">141</int>
+	<int name="">0</int>
+	<int name="anti-mormon_publication">0</int>
+	<int name="arkansas_history">0</int>
+	<int name="government_document">0</int>
+	<int name="lds_publication">0</int>
+	<int name="utah_history">0</int>
+	<int name="western_americana">0</int>
+  </lst>
+ </lst>
+ <lst name="facet_dates"/>
+</lst>
+</response>

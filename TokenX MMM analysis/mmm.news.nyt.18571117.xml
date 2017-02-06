@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="mmm.xsl" type="text/xsl"?><!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "mmm.dtd" [
+
+]>
+<TEI.2 id="mmm.news.nyt.18571117.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mountain Meadows Massacre</title>
+<title level="m" type="sub"></title>
+<author></author>
+<respStmt>
+<resp>Project Director</resp>
+<name>Douglas Seefeldt</name>
+</respStmt>
+<respStmt>
+<resp>Project Team</resp>
+<name>Tonia Compton</name>
+<name>Leslie Working</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition><date>2006</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>mmm.news.nyt.18571117.xml</idno><authority>"Rumored Massacre on the Plains:" The Mountain Meadows Massacre in Public Discourse</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2005 by University of Nebraska, all rights reserved.
+Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, University of Nebraska.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+Reprints of the Los Angeles Star article featuring J. Ward Christian's letter and the Alta California of November 1, 1857.
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title level="m">New York Times</title>
+<author>Editor New York Times</author>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>New York Times</publisher>
+<pubPlace>New York, NY</pubPlace>
+<date>1857-11-17</date>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="culpability">
+<term>Mormon and Indian</term>
+</keywords>
+<keywords n="sympathy">
+<term>Non-Mormon</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-05-02</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2006-03-02</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+<change>
+<date>2004-01-01</date>
+<respStmt>
+<name>Will Bagley</name>
+</respStmt>
+<item>Original transcription</item>
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="Newspaper Article">
+<head>Arrival of the St. Louis</head>
+<milestone unit="horbar" />
+<head>$1,176,086 in Specie</head>
+<milestone unit="horbar" />
+<!-- other subheads -->
+
+<!-- text not transcribed or encoded -->
+
+
+<div2>
+<head>Horrible Massacre of Arkansas and Missouri Emigrants.</head>
+<head type="sub">Over One Hundred Persons Slaughtered by Indians &#8212; Mormon Instigation Suspected.</head>
+<dateline><hi rend="italic">From the <orgName type="Newspaper" key="Los Angeles Star" reg="Los Angeles Star">Los Angeles Star Extra</orgName>, <date value="1857-10-10">Oct, 10</date>.</hi></dateline>
+<p><seg type="Emigrants" subtype="StateAffiliation">A train of emigrants, from Missouri and Arkansas</seg>, for this State, were <seg type="Massacre" subtype="Battle">waylayed and cruelly butchered</seg> on the route, at <seg type="Massacre" subtype="Location">a place called <geogName type="feature" reg="Santa Clara Ca&#241;on">Santa Clara Ca&#241;on</geogName>, near the rim of the <geogName type="feature" reg="Great Basin">Great Basin</geogName>, about 300 miles from <placeName type="settlement" key="Salt Lake City" reg="Salt Lake City">Salt Lake city</placeName>.</seg> <seg type="Massacre" subtype="Location">The scene of the massacre is differently designated as <geogName type="feature" reg="Santa Clara Ca&#241;on">Santa Clara Ca&#241;on</geogName>, the <geogName type="waterway" reg="Mountain Springs">Mountain Springs</geogName>, and the <geogName type="feature" reg="Mountain Meadows">Mountain Meadows</geogName>. But all agree in locating it near the rim of the <geogName type="feature" reg="Great Basin">Great Basin</geogName>, and about fifty miles from <placeName type="settlement" key="Cedar City, UT" reg="Cedar City, UT">Cedar City</placeName>, the most southern of the Mormon settlements.</seg> Of a party of about 130 persons, <seg type="Massacre" subtype="Survivors">only fifteen infant children were saved</seg>. The account was given by the Indians themselves to the <orgName type="religious" key="LDS" reg="Church of Jesus Christ of Later-day Saints">Mormons</orgName> at <placeName type="settlement" key="Cedar City, UT" reg="Cedar City, UT">Cedar City</placeName>, <seg type="Massacre" subtype="Survivors">to which place they brought the children, who were purchased from them by the people of that city</seg>. Whether the cause assigned is sufficient to account for the result, or whether a different cause is at the bottom of the transaction, we will leave the reader to form his own conclusion. We can scarcely believe that a party traveling alo
+ng a highway would act in the manner described, that is to <seg type="Encounter" subtype="Poison">poison the carcass of an ox, and also the water</seg>, thus endangering the lives of those who were coming after them. <seg type="Source" subtype="WordofMouth">Yet this is the story told by all who have spoken of the massacre. <seg type="Encounter" subtype="Poison">It is stated, the emigrants had an ox which died, and they placed poison in the body and also poisoned the water standing in pools, for the purpose of killing the Indians; that several of the tribe had died from this cause,</seg> and that <seg type="Massacre" subtype="Battle">the whole force mustered, pursued the train, and coming up with them at the above named place, which favored their purpose, attacked and murdered the whole party,</seg> <seg type="Massacre" subtype="Survivors">except a few infant children.</seg></seg> <seg type="Massacre" subtype="Battle">The Indians state that they made but one charge on the par
+ty, in which they cut off the greater portion of the men, and then guarded the outlets of the ca&#241;on, and shot the men and women down as they came out for water; that <seg type="Massacre" subtype="Survivors">one man was making his escape with a few children, and they followed him, killed him, and took the children fifteen in number, the eldest under five years of age.</seg></seg> The report was brought to <placeName type="settlement" key="San Bernardino, CA" reg="San Bernardino, CA">San Bernardino</placeName> by Messrs. <persName reg="Tanner, Sidney">Sidney Tanner</persName> and <persName reg="Mathews, William">W. Mathews</persName>.</p> 
+<p>The following letter from Mr. <persName reg="Christian, J. Ward">J. W. Christian</persName>, of <placeName type="settlement" key="San Bernardino, CA" reg="San Bernardino, CA">San Bernardino</placeName>, to Mr. <persName reg="Whitman, George N.">G. N. Whitman</persName>, of <placeName type="settlement" key="Los Angeles, CA" reg="Los Angeles, CA">this city</placeName>, has been kindly placed at our disposal, and we give it at length, as it is the fullest report of the massacre, and the cause which led to it, that has reached us. The writer seems to intimate that the <orgName type="religious" key="LDS" reg="Church of Jesus Christ of Later-day Saints">Mormons</orgName> will be held responsible for the murder, and in this respect he is fully borne out by present indications, for a general belief pervades the public mind here that the Indians were instigated to this crime by the &#8220;Destroying Angels&#8221; of <orgName type="religious" key="LDS" reg="Church of Jesus Christ o
+f Later-day Saints">the church</orgName>, and that the blow fell on these <seg type="Emigrants" subtype="StateAffiliation">emigrants from Arkansas</seg>, <seg type="Blame" subtype="LDSRetribution">in retribution of the death of <persName reg="Pratt, Parley P.">PARLEY PRATT</persName>, which took place in that State.</seg> <seg type="Reaction" subtype="FederalInvestigation">The truth of the matter will not be known until the Government make an investigation of the affair. This should be done, to place blame in the right quarter, as well as to inflict chastisement on the immediate actors in the fearful-tragedy,</seg> who are reported to be the <orgName type="native" reg="Southern Paiute">Santa Clara tribe of Indians</orgName>. The following is the letter&#58;&#8212;</p>
+<div3 type="letter" id="JWardChristian">
+<dateline><placeName type="settlement" key="San Bernardino, CA" reg="San Bernardino, CA">SAN BERNARDINO</placeName>, <date value="1857-10-04">October 4th, 1857</date>.</dateline>
+<p><seg type="Source" subtype="Christian">I take this opportunity of informing you of the murder of an <seg type="Emigrants" subtype="StateAffiliation">entire <seg type="Emigrants" subtype="Route">train of emigrants, on their way from Missouri and Arkansas</seg> to this State, via Great Salt Lake city</seg>; which took place, according to the best information I can possibly acquire, (which is, primarily, through Indians,) at the <seg type="Massacre" subtype="Location"><geogName type="feature" reg="Mountain Meadows">Mountain Meadows</geogName>, which are at or near the Rim of the <geogName type="feature" reg="Great Basin">Great Basin</geogName>, and some distance south of the most southern Mormon settlements</seg>, <seg type="Massacre" subtype="Dates">between the 10th and 12th ultimo.</seg> It is absolutely one of the most horrible massacres I have ever had the painful necessity of relating.</seg>
+</p>
+<p><seg type="Source" subtype="Christian"><seg type="Emigrants" subtype="WagonTrain">The company consisted of about 130 or 135 men, women and children, and including some forty or forty-five capable of bearing arms. They were in possession of quite an amount of stock consisting of horses, mules and oxen.</seg> <seg type="Massacre" subtype="Battle">The encampment was attacked about daylight in the morning, so say the <orgName type="native" reg="Indian">Indians</orgName>, by the combined forces of all the various tribes immediately in that section of the country. It appears that the majority of them were slain at the first onset made by the <orgName type="native" reg="Indian">Indians</orgName>. The remaining forces formed themselves into the best position there circumstances would allow; but before they could make the necessary arrangement for protecting themselves from the arrows, there were but few left who were able to bear arms. After having corralled their wagons, and dug
+ a ditch for their protection, they continued to fire upon the Indians for one or two days, but the Indians had so secreted themselves that, according to their own statement, there was not one of them killed, and but few wounded. They (the emigrants) then sent out a flag of truce, borne by a little girl, and gave themselves up to the mercy of the savages, who immediately rushed in and slaughtered all of them, with the exception of <seg type="Massacre" subtype="Survivors">fifteen infant children,</seg> that have since been purchased, with much difficulty, by the Mormon interpreters.</seg></seg>
+</p>
+<p><seg type="Source" subtype="Christian">I presume it would be unnecessary, for all practical purposes, to relate the causes which gave rise to the above described catastrophe, from the simple fact that it will be attributed to the Mormon people, let the circumstances of the case be what they may. But it seems, from a statement which I received from Elders <persName reg="Mathew, William">Wm. Mathew</persName>  and <persName reg="Hyde, William">Wm. Hyde</persName>, who were in <placeName type="settlement" key="Salt Lake City" reg="Salt Lake City">Great Salt Lake city</placeName> at the time the train was there, recruiting their &#8220;fit out;&#8221; and were on the road to this place at the time when they were murdered, but several days' journey in the rear-somewhere about the <geogName type="mountain" reg="Beaver Mountains">Beaver Mountains</geogName>, which is between <placeName type="settlement" key="Parowan, UT" reg="Parowan, UT">Parawan</placeName> and <placeName type=
+"settlement" key="Fillmore City, UT" reg="Fillmore City, UT">Fillmore</placeName> cities-that the causes were something like these: <seg type="Blame" subtype="Emigrant Behavior">The train camped at <geogName type="waterway" reg="Corn Creek">Corn Creek</geogName>, near <placeName type="settlement" key="Fillmore City, UT" reg="Fillmore City, UT">Fillmore City</placeName>, where there is an Indian village, the inhabitants of which have raised a crop of wheat, and a few melons &amp;c. And <seg type="Encounter" subtype="TradeIndian">in trading with the Indians they gave them cash for wheat, and they not knowing the value of coin were severely cheated. They wanted a blanket for a sack of wheat, but they gave them fifty cents, and told them that amount would buy a blanket.</seg> <seg type="Encounter" subtype="Poison">They also had an ox with them which had died, and they put strychnine in him, for the purpose of poisoning the Indians; and also put poison of some description in the 
+water, which is standing in holes. This occasioned several deaths among them,</seg> within a few days after the departure of the train. <seg type="Massacre" subtype="Planning"><seg type="Blame" subtype="IndiansIndependently">And upon this, it seems, the Indians gathered themselves together, and had, no doubt chose the place of attack, and arranged everything before the train arrived at the place where they were murdered.</seg></seg></seg></seg></p>
+<p>It was ascertained by some of the interpreters, from a few of the Indians who were left at Corn Creek, that most of the Indians in the country had left; but they could not learn for what purpose, and before any steps could be taken to ascertain for certain what was the cause, the story was told-they were all killed.</p> <closer><salute>Yours truly,</salute> <signed><persName reg="Christian,  J. Ward">J. WARD CHRISTIAN</persName>.</signed>
+</closer></div3>
+</div2>
+
+<milestone unit="horbar" />
+
+<div2>
+<dateline><hi rend="italic">Angeles (<date value="1857-10-14">Oct. 14</date>)Correspondence of the <orgName type="Newspaper" key="Daily Alta California" reg="Daily Alta California">Alta</orgName></hi></dateline>
+
+<p><seg type="Source" subtype="Word of Mouth">This morning, while conversing with some immigrants, who have lately arrived via the Plains from Arkansas, and are living within a few miles of this place, I related to them the circumstances of the massacre.  <seg type="Emigrants" subtype="WagonTrain">They immediately informed me that they knew who the parties were. They stated that there were <seg type="Emigrants" subtype="StateAffiliation">three, and perhaps four, companies from Arkansas</seg>, while <seg type="Emigrants" subtype="StateAffiliation">the balance of the company was made up of Missourians</seg>, who fell in with them; of these latter, they knew nothing, but the Arkansas companies, consisted of <orgName type="wagontrain" key="Fancher" reg="Fancher">Faziers</orgName>, <orgName type="wagontrain" key="Cameron" reg="Cameron">Camerons</orgName> and the two <orgName type="wagontrain" key="Dunlap" reg="Dunlap">Dunlaps</orgName>, and perhaps <orgName type="wagontrain" key="Baker" reg="Baker">Bakers</orgName>. They were from the counties of <placeName rend="county" key="Marion County, AR" reg="Marion County, AR">Marion</placeName>, <placeName rend="county" key="Carrol County, AR" reg="Carrol County, AR"><sic corr="Carrol">Harrol</sic></placeName> and <placeName rend="county" key="Johnson County, AR" reg="Johnson County, AR">Johnson</placeName>.</seg> <seg type="Emigrants" subtype="Route">They say when they saw them, they were encamped six miles from <placeName rend="settlement" key="Salt Lake City" reg="Salt Lake City">Salt Lake City</placeName>, that they had been there for some time, and that they intended to stay there until the weather got cool enough for them to come by the <placeName rend="route" key="Southern Route" reg="Southern Route">South Pass</placeName>, expecting to make a stay of eight weeks all together.</seg> <persName reg="Baker, John T. 'Jack'">Baker</persName> had not arrived there when they left, but as they can learn nothing from him or his company, they concluded that he had fallen in and decided to come into California with these companies. The two <persName reg="Dunlap, Lorenzo Dow, and family"><persName reg="Dunlap, Jesse, Jr., and family">Dunlaps had each nine children</persName></persName> , some of them well grown. </seg><seg type="Reaction" subtype="California"><seg type="Blame" subtype="LDS"><seg type="Context" subtype="Indian Relations LDS">If these are the persons who were slaughtered, who can be so blind as not to see that the hands of Mormons are stained with this blood. <seg type="Blame" subtype="Indians LDS Influence">How could so large a company remain among them for two months and they not learn one name? and why would the Indians kill every being, except those that were too young to comm
+unicate anything to their friends, or hardly tell a name, or tell who were the murderers of their parents, and brothers and sisters; or even discriminate between white men and Indians? Why all this concealment?</seg> and <seg type="Massacre" subtype="Spoils">in the very face of it the Indians tell what they have done and sell all their spoils to the whites.</seg></seg></seg> It will do to lay this blood upon them, but I feel certain that investigation will throw it off.</seg></p>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

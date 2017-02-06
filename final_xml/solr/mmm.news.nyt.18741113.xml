@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <doc>
+      <field name="id">mmm.news.nyt.18741113</field>
+      <field name="itemCategory">newspaper</field>
+      <field name="titleMain">The Mormons</field>
+      <field name="author"/>
+      <field name="dateSearch">1874-11-13</field>
+      <field name="dateDisp">November 13, 1874</field>
+      <field name="place">New York, NY</field>
+      <field name="state">New York, NY</field>
+      <field name="source">New York Times</field>
+      <field name="text">
+
+
+
+
+
+
+    
+
+
+THE MORMONS.
+
+BRIGHAM YOUNG AT ST. GEORGE—THE MOUNTAIN MEADOW MASSACRE—PROSECUTIONS FOR POLYGAMY.
+
+SALT LAKE CITY, NOV.12
+    
+—Brigham Young has arrived at St. George, Utah.
+
+John D. Lee, now in prison at Beaver charged with being connected with the Mountain Meadow massacre in 1857, when 120 Arkansas emigrants were murdered, will, it is said, give a true history of the whole affair, and the names of the parties implicated.
+    
+In the Third District Court today, George Q. Cannon gave bail in $5,000 to answer from day to day on a charge of polygamy. the former indictment against him having been found under the Territorial law for lascivious cohabitation.
+    
+Thomas E. Ricks, now in the Penientiary here, under indictments for lascivious cohabitation and murder, made an effort to get released on bail today, but was unsuccessful. It will be remembered that Ricks was a member of the Grand Jury.
+
+
+
+ </field>
+   </doc>
+</add>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="mmm.xsl" type="text/xsl"?><!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" [
+
+]>
+<TEI.2 id="mmm.news.dac.18571101.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mountain Meadows Massacre</title>
+<title level="m" type="sub"></title>
+<author></author>
+<respStmt>
+<resp>Project Director</resp>
+<name>Douglas Seefeldt</name>
+</respStmt>
+<respStmt>
+<resp>Project Team</resp>
+<name>Tonia Compton</name>
+<name>Leslie Working</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition><date>2006</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>mmm.news.dac.18571101.xml</idno><authority>"Rumored Massacre on the Plains:" The Mountain Meadows Massacre in Public Discourse</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2005 by University of Nebraska, all rights reserved.
+Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, University of Nebraska.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+News from Angel's Camp confirming the identity of the Arkansas emigrants and placing blame on the Mormons.
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title level="m">Daily Alta California</title>
+<author>Editor Alta California</author>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Alta California</publisher>
+<pubPlace>San Francisco, CA</pubPlace>
+<date>1857-11-01</date>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="culpability">
+<term>Mormon and Indian</term>
+</keywords>
+<keywords n="sympathy">
+<term>Non-Mormon</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-04-25</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2006-03-02</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+<change>
+<date>2004-01-01</date>
+<respStmt>
+<name>Will Bagley</name>
+</respStmt>
+<item>Original transcription</item>
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+
+<div1 type="Newspaper article">
+
+
+<head>LETTER FROM ANGEL'S CAMP <lb/>
+FURTHER PARTICULARS ABOUT THE MURDERED EMIGRANTS-THEIR NAMES AND CIRCUMSTANCES-THE MORMONS GUILTY OF THE CRIME-HOW THEY SHOULD BE PUNISHED</head>
+
+<dateline><placeName type="settlement" key="Angel's Camp, CA" reg="Angel's Camp, CA">Angel's</placeName>, <date value="1857-10-29">October 29, 1857</date>
+</dateline><p><seg type="Source" subtype="Published account">By the late news from Los Angeles, I see that the information given by me in my last letter, in reference to the names of the murdered emigrants, is about to prove true. </seg><seg type="Source" subtype="Word of Mouth">In view of this fact, I went out this morning to see the immigrants that gave me the information, to learn further particulars from them. I called on but one of the families, and they informed me that <seg type="Emigrants" subtype="State Affiliation">in Arkansas they lived but three miles from Baker's farm</seg>, and <seg type="Emigrants" subtype="Wagon Train">that he was generally known by the name of <persName reg="Baker,  John T., 'Jack'">Jack or "Captain Jack," Baker</persName>. He was reported to be wealthy, and left home with four hundred head of cattle, accompanied by his two sons.</seg> One son, named <persName reg="Baker, George">George</persName>, had spent some years in California, and had lived about <placeName type="settlement" key="Stockton, CA" reg="Stockton, CA">Stockton</placeName>, <placeName type="settlement" key="Sonora, CA" reg="Sonora, CA">Sonora</placeName> and <placeName type="settlement" key="Columbia, CA" reg="Columbia, CA">Columbia</placeName>. The <persName reg="Baker, Abel">other son</persName> was single. The old man intended, as soon as he could settle here, to return by water and bring out the remainder of his family. In his company were two brothers, by the name of <persName reg="Mitchell, Charles R., and family"><persName reg="Mitchell, Joel D.">Mitchel</persName>, (one of whom had his family,)</persName> a man named <persName reg="Jones, John Milum">Milan Jones</persName>, and a widow named <persName reg="Tackitt, Synthia">Tacket</persName>, who was coming to live with her son in California. I think this son is living near Tuttletown. My informants saw all these persons at <placeName type="military post" key="Fort Bridger" reg="Fort Bridger">Fort Bridger</placeName>, about the last of July. <persName reg="Fancher, Alexander">Fancier</persName> (I wrote Fazier by mistake in my other letter) had spent some years in California, but my informant did not know in what part. <seg type="Emigrants" subtype="Wagon Train">They think the whole company had at least a thousand head of cattle with them. They also had many splendid rifles and guns, and plenty of them.</seg> <seg type="Context" subtype="Indian Relations LDS">My informants tell me, that the day they passed the junction of the <placeName type="route" key="Salt Lake Cutoff" reg="Salt Lake Cutoff">Cut-off</placeName> and the main road through <placeName type="settlement" key="Salt Lake City" reg="Salt Lake City">Salt Lake City</placeName>, (thirty miles this side of the city,) they saw a party of Indians enjoying a feast given them by the Mormons. The Mormons said they had just finished a treaty with the Indians, the purpose of which was that the Indians were not to trouble the whites who travelled through by the Salt Lake route, as they wanted them to pass that way in order to trade with them.</seg></seg></p>
+<p><seg type="Blame" subtype="LDS"><seg type="Reaction" subtype="California"><seg type="Source" subtype="Published Account">The last news also confirms my opinion as to who were the perpetrators of this deed. There were some facts connected with the first information given by the Mormons of this slaughter, that convinced me that the murderers were not Indians. It may be true that Indians took part in the work, but the blame rests with those who led them on.</seg> <seg type="Massacre" subtype="Survivors">The first of these facts is, that the young children were saved. This was no Indian act, but was natural for the Mormons, who wanted to train them to their faith.</seg> The second is, the suppression of all the names. Now, if no one of that large company did not tell his name to any Mormon, they certainly left some evidence among the property as to who they were and where they were from. The third is, the statement that the Indians had told the whites what they had done.</seg></seg></p>
+<p><seg type="Context" subtype="Utah War">We are all at a loss to know what is to be done with these people, and we dread to contemplate the horrors of the future. If soldiers must be sent to conquer them, rivers of blood must flow through their valleys before it will be done. If they are to be left alone to do as they will, the great highway of travel between the Atlantic States and the <geogName type="feature" reg="Pacific Ocean">Pacific</geogName> will be closed, and Utah will be the place of refuge for all the villains who escape from justice in the States, and a worse set will be gathered there than the world has ever seen.</seg></p>
+<p><seg type="Context" subtype="Utah War"><seg type="Context" subtype="Territorial Administration">The only remedy seems to be to dissolve the <orgName type="governmental" key="Utah Territorial Administration" reg="Utah Territorial Administration">Territorial government</orgName>, declare their laws null and void, send large bodies of soldiers to be stationed at every town and settlement in the Territory, let martial law prevail, then hang or shoot every man that rebels, punish every one according to the crime he commits, and give encouragement to the Gentiles to settle there. By this policy the country will fill up with Gentiles. </seg></seg> P.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

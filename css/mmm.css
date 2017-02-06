@@ -1,0 +1,405 @@
+/* CSS Document */
+
+body {
+	margin: 0px;
+	padding: 0px;
+	background: #2f2827;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #F1D4B7;
+	text-align: center;
+}
+
+div#mainBody {
+	width: 797px;
+	padding-right: 12px;
+	padding-left: 12px;
+	background: url(../web-images/body_shadow.gif) top center repeat-y;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a:link, a:hover, a:visited {
+	text-decoration: underline;
+	color: #bd6f00
+}
+
+a:visited {
+	color: #895000;
+}
+
+a:hover {
+	color: #333333;
+}
+
+div#titleBlock {
+	background: url(../web-images/images/title_bg.jpg) top left no-repeat #130B09;
+	; height: 257px;
+	position: relative;
+}
+
+div#titleBlock h1 {
+	display: none;
+}
+
+div#titleBlock ul.mainMenu {
+	padding-top: 227px;
+	margin-left: 15px;
+	padding-bottom: 4px;
+}
+
+div#titleBlock ul.mainMenu li {
+	display: inline;
+	padding-right: 28px;
+	padding-left: 28px;
+	background: url(../web-images/mm_separator.gif) center left no-repeat;
+	padding-top: 3px;
+	padding-bottom: 4px;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+div#titleBlock ul.mainMenu li.selected {
+	background: #660000;
+	color: #CE8C27
+}
+
+ul.mainMenu a:link, ul.mainMenu a:visited, ul.mainMenu a:hover {
+	color: #CE8C27;
+	text-decoration: none;
+}
+
+ul.mainMenu a:hover {
+	text-decoration: underline;
+}
+
+div.footer {
+	background: url(../web-images/images/bottom_bg.jpg) top left no-repeat #0f0604;
+	height: 300px;
+	clear: both;
+}
+
+p.copyStmt {
+	font-size: .8em;
+	color: #9a8168;
+	text-align: right;
+	padding: 15px 25px;
+	line-height: 2em;
+}
+
+p.copyStmt a {
+	color: #9a8168;
+}
+
+p.copyStmt img {
+	padding-top: 12px;
+	padding-right: -2px;
+}
+
+ul.projectMenu {
+	position: absolute;
+	top: 40px;
+	left: 655px;
+	font-size: .8em;
+}
+
+ul.projectMenu li {
+	padding-bottom: 12px;
+}
+
+ul.projectMenu a, ul.projectMenu a:link, ul.projectMenu a:hover, ul.projectMenu a:visited {
+	color: #9a8168;
+	text-decoration: underline;
+}
+
+ul.projectMenu a:hover {
+	color: #bfa8a3;
+}
+
+div.content img {
+	display: block;
+}
+
+div.bodyContent {
+	background: url(../web-images/content_bg.jpg) top left no-repeat #e2caa8;
+	color: #100805;
+	padding: 20px 25px 60px 25px;
+	font-size: .9em;
+	overflow: auto;
+}
+
+div.bodyContent h2 {
+	margin: 10px 0px 15px 0px;
+	color: #2f2827;
+	font-size: 1.6em;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: 900;
+}
+
+div.bodyContent h3 {
+	margin: 20px 0px 0px 0px;
+	font-weight: bold;
+	font-size: 1.3em;
+	color: #2f2827;
+}
+
+div.bodyContent h4 {
+	margin: 10px 0px 0px 0px;
+	font-weight: bold;
+	font-size: 1em;
+	color: #2f2827;
+}
+
+div.bodyContent p{
+	line-height: 1.7em;
+	padding: 5px 0px 5px 0px;
+}
+
+div.bodyContent{
+	line-height: 1.7em;
+}
+
+div.bodyContent em {
+	font-style: italic;
+}
+
+.menuSide {
+	line-height: 1.2em;
+}
+
+div.bodyContent strong {
+	font-weight: bold;
+}
+
+div.bodyContent blockquote {
+	margin: 10px 20px 10px 20px;
+	padding: 10px 15px 15px 15px;
+}
+
+table {
+	margin-top: 15px;
+	margin-bottom: 20px;
+	font-size: .9em;
+	border-collapse: collapse;
+	line-height: 1.3em;
+}
+
+table td, table th {
+	padding: 7px;
+	vertical-align: top;
+	margin-bottom: 7px;
+}
+
+table th {
+	font-weight: bold;
+}
+
+table tr.odd {
+	background: #c9b396;
+}
+
+table {
+	color: #000;
+}
+
+table td.date {
+	width: 11em;
+	color: #000;
+}
+
+table td.source {
+	width: 15em;
+}
+
+div.twoCol {
+	margin-top: 10px;
+}
+
+.visualizationsCol {
+	width: 560px;
+	float: right;
+}
+
+div.menuSide {
+	width: 180px;
+	float: left;
+	padding-top: 0px;
+}
+
+div.twoCol div.menuSide {
+	width: 180px;
+	float: left;
+	padding-top: 0px;
+}
+
+div.twoCol div.menuSide strong {
+	color: #333333;
+}
+
+div.twoCol div.menuSide h4 {
+	padding-bottom: 0px;
+	padding-top: 0;
+	margin-top: 0;
+}
+
+div.twoCol div.menuSide li {
+	margin-bottom: 4px;
+	padding: 4px;
+	padding-left: 6px;
+	background: #c9b396;
+	font-size: .9em;
+	cursor: default;
+}
+
+div.twoCol div.menuSide p {
+	margin-bottom: 4px;
+	padding: 4px;
+	padding-left: 6px;
+
+	font-size: .9em;
+	cursor: default;
+	
+}
+
+.newspaper .newspaper a, 
+.government_document .government_document a, 
+.western_americana .western_americana a,
+.anti-mormon_publication .anti-mormon_publication a,
+.lds_publication .lds_publication a,
+.western_americana .western_americana a,
+.utah_history .utah_history a,
+.arkansas_history .arkansas_history a {
+	color: #e2caa8;
+}
+
+.newspaper .newspaper, 
+.government_document .government_document, 
+.western_americana .western_americana,
+.anti-mormon_publication .anti-mormon_publication,
+.lds_publication .lds_publication,
+.western_americana .western_americana,
+.utah_history .utah_history,
+.arkansas_history .arkansas_history {
+	background: #660000 !important;
+	color: #e2caa8;
+}
+
+.source {
+	display: none;
+}
+
+.newspaper .author {
+	display: none;
+}
+
+.newspaper .source {
+	display: block;
+}
+
+div.twoCol div.menuSide li.selected {
+	background: #660000;
+	color: #e2caa8;
+}
+
+div.twoCol div.contentSide {
+	padding-left: 195px;
+}
+
+p.error {
+	padding-bottom: 250px;
+}
+
+.highlight {
+	background: #CE8C27;
+}
+
+span.pageimage img {
+	border: 2px solid #b29f85;
+}
+
+
+span.pageimage {
+	text-align: center;
+	
+}
+
+span.pageimage {
+	
+	float: right;
+	margin: -13px 0px 10px 10px;
+	clear: right;
+	display: block;
+}
+
+.hr {
+	border-top: 3px solid #b29f85; 
+	clear: right;
+	width: 552px;
+	margin: 10px 0 -10px 0;
+	padding: 0px 0 0 0;
+	display: block;
+}
+
+blockquote .hr {
+	width: 517px;
+	margin-left: -35px
+}
+
+#tooltip {
+	position: absolute;
+	z-index: 9999;
+	color: #000;
+	font-size: .9em;
+	background-color: #fff;
+	border: 1px solid #aaa;
+	text-decoration: none;
+	font-weight: normal;
+	font-style: normal;
+	padding: 10px;
+	text-align: left;
+	-moz-box-shadow: 5px 5px 5px #aaa;
+	-webkit-box-shadow: 5px 5px 5px #aaa;
+	box-shadow: 5px 5px 5px #aaa;
+	line-height: 1.4;
+	max-width: 400px;
+}
+
+#tooltip.inlinenote {
+	max-width: 400px !important;
+}
+
+a #tooltip {
+	text-decoration: none;
+}
+
+.sic {
+border-bottom: solid 1px #aaa; 
+/* background: red */
+}
+
+a:hover.sic {
+text-decoration: none;}
+
+.footnumber {
+	vertical-align: super;
+	font-size: .8em;
+}
+
+.note {
+	/*border-top: 1px dotted #b29f85;*/
+}
+
+.noteline {
+	width: 200px;
+	border-top: 1px dashed #b29f85;
+	height: 1px;
+	margin: 10px 0 3px 0;
+}
+
+
+
+.menuSide .noteline {
+	display: none;
+}
+

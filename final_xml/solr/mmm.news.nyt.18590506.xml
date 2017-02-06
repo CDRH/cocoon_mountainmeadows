@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <doc>
+      <field name="id">mmm.news.nyt.18590506</field>
+      <field name="itemCategory">newspaper</field>
+      <field name="titleMain">The Utah Massacres</field>
+      <field name="author"/>
+      <field name="dateSearch">1859-05-06</field>
+      <field name="dateDisp">May 6, 1859</field>
+      <field name="place">New York, NY</field>
+      <field name="state">New York, NY</field>
+      <field name="source">New York Times</field>
+      <field name="text">
+
+
+
+
+
+    
+
+THE UTAH MASSACRES.—
+
+The Commissioner of Indian Affairs is in receipt of a letter dated at Provo City, March 18, 1859, from Superintendent FORNEY, having charge of Indian affairs in Utah. The Superintendent reports that he left Salt Lake City to visit the southern Indians, and bring back 17 children saved from the massacre of September, 1857.  He was detained at Provo City to give testimony before the United States Courts concerning the murders of last June and October, and the Mountain Meadow affair. He says that he has reliable information in regard to the butchery at Mountain Meadows, by means of which he hopes to recover some of the property. The facts warrant the belief that a few days after the massacre there was distributed among the church dignitaries property worth $30,000, besides, it is presumed, a considerable amount of ready money.  The Superintendent will make such investigation as circumstances admit.  He thinks that it has proved exceedingly convenient to implicate the Indians in all such cases, that an investigation may involve other parties into the crimes.—Constitution.
+
+
+
+ </field>
+   </doc>
+</add>

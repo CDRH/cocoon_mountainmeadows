@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <doc>
+      <field name="id">mmm.news.las.18571107.1</field>
+      <field name="itemCategory">newspaper</field>
+      <field name="titleMain">Arrival of the Mail from Salt Lake City</field>
+      <field name="author"/>
+      <field name="dateSearch">1857-11-07</field>
+      <field name="dateDisp">November 7, 1857</field>
+      <field name="place">Los Angeles, CA</field>
+      <field name="state">Los Angeles, CA</field>
+      <field name="source">Los Angeles Star</field>
+      <field name="text">
+
+
+
+
+
+    
+    
+
+Arrival of the Mail from Salt Lake City.
+
+Although our regular files of the Deseret News have not reached us, we have been enabled (thanks to Mr. Daniel Taft, the San Bernardino mail carrier) to procure full files of that paper, up to the 7th October.
+
+The intelligence is of the utmost importance, as it exhibits the Mormon leaders in almost direct conflict with the United States Government. We intended to place before our readers, this week certain speeches of Presidents Brigham Young and Heber C. Kimball, but find ourselves, for want of space, compelled to defer them for the present.
+
+
+
+ </field>
+   </doc>
+</add>

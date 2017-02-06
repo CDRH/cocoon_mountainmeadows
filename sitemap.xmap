@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+
+<map:sitemap xmlns:map="http://apache.org/cocoon/sitemap/1.0">
+
+	<map:components>
+
+		<map:generators default="file">
+			<map:generator name="file" src="org.apache.cocoon.generation.FileGenerator"/>
+			<map:generator name="directory" src="org.apache.cocoon.generation.DirectoryGenerator"/>
+			<map:generator name="search" src="org.apache.cocoon.generation.SearchGenerator">
+				<map:generator label="content" logger="sitemap.generator.xpathdirectory"
+					name="xpathdirectory" src="org.apache.cocoon.generation.XPathDirectoryGenerator"
+				/>
+			</map:generator>
+		</map:generators>
+
+
+	</map:components>
+
+
+	<map:pipelines>
+		
+		<map:component-configurations>
+			<global-variables>
+				<solr-url>http://localhost:8983/solr/mountainmeadows/select/?version=2.2&amp;echoParams=all&amp;indent=on</solr-url>
+				<!--<solr-url>http://localhost:8983/solr/mountainmeadows/select/?version=2.2&amp;echoParams=all&amp;indent=on</solr-url>
+				-->
+			</global-variables>
+		</map:component-configurations>
+		
+		<map:pipeline>
+
+			<map:match pattern="**/*.jpg">
+				<map:read src="{1}/{2}.jpg" mime-type="image/jpeg"/>
+			</map:match>
+
+			<map:match pattern="**/*.js">
+				<map:read src="{1}/{2}.js" mime-type="text/javascript"/>
+			</map:match>
+
+			<!--<map:match pattern="**/*.css">
+				<map:read src="css/{2}.css" mime-type="text/css"/>
+			</map:match>-->
+			
+			<map:match pattern="stylesheets/css/**">
+				<map:read src="stylesheets/css/{1}"/>
+			</map:match>
+			
+			<map:match pattern="css/**">
+				<map:read src="css/{1}"/>
+			</map:match>
+
+			<map:match pattern="**/*.gif">
+				<map:read src="{1}/{2}.gif" mime-type="image/gif"/>
+			</map:match>
+			
+			
+			
+			<map:match pattern="js/**">
+				<map:read src="js/{1}"/>
+			</map:match>
+
+
+			<map:match pattern="">
+				<map:read mime-type="text/html" src="index.html" type="resource"/>
+			</map:match>
+
+			<map:match pattern="/">
+				<map:redirect-to uri="index.html"/>
+			</map:match>
+
+			<map:match pattern="index.html">
+				<map:read src="index.html"/>
+			</map:match>
+
+			<map:match pattern="about.html">
+				<map:read src="about.html"/>
+			</map:match>
+
+			<map:match pattern="introduction.html">
+				<map:read src="introduction.html"/>
+			</map:match>
+			
+			<map:match pattern="newfileslist.html">
+				<map:read src="newfileslist.html"/>
+			</map:match>
+
+			<map:match pattern="documents/*.html">
+				<map:redirect-to uri="../archive/{1}.html"/>
+			</map:match>
+
+			<!--<map:match pattern="archive/index.html">
+				<map:generate src="xsl/newspapers.xml"/>
+				<map:transform src="xsl/archive.xsl"/>
+				<map:transform src="xsl/html_template.xsl">
+					<map:parameter name="section" value="archive"/>
+					<map:parameter name="pagetype" value="newspaper"/>
+				</map:transform>
+				<map:serialize type="html"/>
+			</map:match>-->
+			
+			<!-- The above is a temporary fix, I need Keith's help to get this working -->
+			
+            <map:match pattern="archive/index.html">
+                <map:generate src="http://localhost:8983/solr/mountainmeadows/select/?version=2.2&amp;echoParams=all&amp;indent=on&amp;start=0&amp;rows=200&amp;q=itemCategory:newspaper&amp;sort=dateSearch+asc,itemCategory+asc&amp;facet=true&amp;facet.field=itemCategory&amp;fl=id,itemCategory,place,source,dateDisp,dateSearch,titleMain" />
+				<map:transform src="xsl/archive.xsl"/>
+				<map:transform src="xsl/html_template.xsl">
+				    <map:parameter name="section" value="archive"/>
+				    <map:parameter name="pagetype" value="newspaper"/>
+                                </map:transform>
+				<map:serialize type="html"/>
+			</map:match> 
+
+			<map:match pattern="search/index.html">
+				<map:generate type="file" src="http://localhost:8983/solr/mountainmeadows/select/?version=2.2&amp;echoParams=all&amp;indent=on&amp;q=itemCategory:(*)&amp;start=0&amp;rows=200&amp;indent=on&amp;facet=true&amp;sort=dateSearch+asc&amp;facet.field=itemCategory&amp;sort=itemCategory+asc&amp;fl=id,itemCategory,place,source,dateDisp,dateSearch,titleMain"/>
+				<map:transform src="xsl/search.xsl"/>
+				<map:transform src="xsl/html_template.xsl">
+					<map:parameter name="section" value="search"/>
+					<!--<map:parameter name="pagetype" value="newspaper"/>-->
+				</map:transform>
+				<map:serialize type="html"/>
+			</map:match>
+			
+			<map:match pattern="search/result.html">
+                <map:generate type="file" src="http://localhost:8983/solr/mountainmeadows/select?indent=on&amp;version=2.2&amp;echoParams=all&amp;q=({request-param:q})&amp;start=0&amp;rows=10"/>
+				<map:transform src="xsl/results.xsl"/>
+				<map:transform src="xsl/html_template.xsl">
+					<map:parameter name="section" value="search"/>
+				</map:transform>
+				<map:serialize type="html"/>
+			</map:match>
+			
+			
+			
+			<map:match pattern="archive/*/index.html">
+				<map:generate type="file" src="http://localhost:8983/solr/mountainmeadows/select/?version=2.2&amp;echoParams=all&amp;indent=on&amp;q=itemCategory:{1}&amp;start=0&amp;rows=200&amp;indent=on&amp;facet=true&amp;facet.field=itemCategory&amp;sort=dateSearch+asc&amp;fl=id,itemCategory,place,source,dateDisp,dateSearch,titleMain,author"/>
+				<map:transform src="xsl/archive.xsl"/>
+				<map:transform src="xsl/html_template.xsl">
+					<map:parameter name="section" value="archive"/>
+					<map:parameter name="pagetype" value="{1}"/>
+				</map:transform>
+				<map:serialize type="html"/>
+			</map:match>
+
+			<map:match pattern="archive/*.html">
+                <map:generate type="file" src="final_xml/{1}.xml"/>
+                <map:transform src="xsl/mmm.xsl">
+                    <map:parameter name="use-request-parameters" value="true"/>
+                </map:transform>
+				<map:transform src="xsl/html_template.xsl">
+					<map:parameter name="section" value="archive"/>
+                </map:transform>
+                <map:serialize type="xhtml"/>
+            </map:match>
+
+		
+			<!--<map:match pattern="archive/*.html">
+				<map:generate type="file" src="final_xml/{1}b.xml"/>
+				<map:transform src="xsl/mmm_old.xsl">
+					<map:parameter name="use-request-parameters" value="true"/>
+				</map:transform>
+				<map:transform src="xsl/html_template.xsl">
+					<map:parameter name="section" value="archive"/>
+				</map:transform>
+				<map:serialize type="xhtml"/>
+			</map:match>-->
+
+			<map:match pattern="visualizations/index.html">
+				<map:generate type="file" src="xsl/visualizations.xml"/>
+				<map:transform src="xsl/html_template.xsl">
+					<map:parameter name="section" value="visualizations"/>
+				</map:transform>
+				<map:serialize type="html"/>
+			</map:match>
+
+			<map:match pattern="visualizations/wordclouds/">
+				<map:redirect-to uri="index.html"/>
+			</map:match>
+
+			<map:match pattern="visualizations/timelines/">
+				<map:redirect-to uri="index.html"/>
+			</map:match>
+
+			<map:match pattern="visualizations/narrativemap/">
+				<map:redirect-to uri="index.html"/>
+			</map:match>
+
+			<map:match pattern="visualizations/narrativemap/index.html">
+				<map:generate type="file" src="concept_map_xml/mmm.index.xml"/>
+				<map:transform src="xsl/conceptmap.xsl"/>
+				<map:transform src="xsl/html_template.xsl">
+					<map:parameter name="section" value="visualizations"/>
+				</map:transform>
+				<map:serialize type="html"/>
+			</map:match>
+
+			<map:match pattern="visualizations/*/*.html">
+				<map:read src="visualizations/{1}/{2}.html"/>
+			</map:match>
+
+			<map:match pattern="browse/index.html">
+				<map:generate type="file" src="xsl/browse.xml"/>
+				<map:transform src="xsl/html_template.xsl">
+					<map:parameter name="section" value="browse"/>
+				</map:transform>
+				<map:serialize type="html"/>
+			</map:match>
+
+
+			<map:match pattern="documents/index_docs.xml">
+				<map:generate type="directory" src="final_xml">
+					<map:parameter name="include" value="^mmm\.news.+\.xml$"/>
+				</map:generate>
+				<map:transform src="xsl/keywordindex.xsl"/>
+				<map:transform type="write-source"/>
+				<map:serialize type="xml"/>
+			</map:match>
+
+			<map:match pattern="**/*.html">
+				<map:read src="{1}/{2}.html" mime-type="text/html"/>
+			</map:match>
+
+			<map:match pattern="**/*.xml">
+				<map:read src="final_xml/{2}.xml" mime-type="text/xml"/>
+			</map:match>
+			
+			<!--<map:match pattern="*">
+				<map:read src="*"/>
+			</map:match>-->
+
+
+		</map:pipeline>
+
+		<!--<map:handle-errors type="404">
+			<map:transform src="xsl/error.xsl">
+				<map:parameter name="use-request-parameters" value="true"/>
+			</map:transform>
+			<map:transform src="xsl/html_template.xsl"/>
+			<map:serialize status-code="404"/>
+		</map:handle-errors>-->
+
+	</map:pipelines>
+</map:sitemap>

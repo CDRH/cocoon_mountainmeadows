@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <doc>
+      <field name="id"/>
+      <field name="itemCategory"/>
+      <field name="titleMain"/>
+      <field name="author"/>
+      <field name="dateSearch"/>
+      <field name="dateDisp">
+                N.D.
+            </field>
+      <field name="place"/>
+      <field name="state"/>
+      <field name="source"/>
+      <field name="text"/>
+   </doc>
+</add>

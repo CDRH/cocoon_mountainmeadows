@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="mmm.xsl" type="text/xsl"?><!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "mmm.dtd" [
+
+]>
+<TEI.2 id="mmm.news.asgd.18590924.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mountain Meadows Massacre</title>
+<title level="m" type="sub"></title>
+<author></author>
+<respStmt>
+<resp>Project Director</resp>
+<name>Douglas Seefeldt</name>
+</respStmt>
+<respStmt>
+<resp>Project Team</resp>
+<name>Tonia Compton</name>
+<name>Leslie Working</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition><date>2006</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>mmm.news.asgd.18590924.xml</idno><authority>"Rumored Massacre on the Plains:" The Mountain Meadows Massacre in Public Discourse</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2005 by University of Nebraska, all rights reserved.
+Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, University of Nebraska.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title level="m">Arkansas State Gazette and Democrat</title>
+<author>Editor</author>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Arkansas State Gazette and Democrat</publisher>
+<pubPlace>AR</pubPlace>
+<date>1859-09-24</date>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="culpability">
+<term> </term>
+</keywords>
+<keywords n="sympathy">
+<term>Emigrants</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-05-07</date>
+<respStmt>
+<name>Douglas Seefeldt</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2006-03-02</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+
+<change>
+<date>2004-01-01</date>
+<respStmt>
+<name>Will Bagley</name>
+</respStmt>
+<item>Original transcription</item>
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body><div1 type="Newspaper article">
+
+<head>Extract from a letter to this office, dated
+"MT. PLEASANT, CARROLL, CO., ARK."</head>
+
+<dateline><date value="1859-09-14">September 14, 1859</date>.</dateline>
+
+<p>"<seg type="Massacre" subtype="Survivors">Col. <persName reg="Mitchell, William C.">Mitchell </persName>has arrived home with the surviving children of the Mountain Meadow massacre, except two of the oldest who were detained at <placeName type="settlement" key="Salt Lake City" reg="Salt Lake City">Salt Lake City</placeName> as witnesses. He will deliver them to their nearest relatives on tomorrow, at <placeName type="settlement" key="Carrollton, AR" reg="Carrolton">Carrolton</placeName>&#8212;the most of them belonging in <placeName type="county" key="Carroll County, AR" reg="Carroll County">this </placeName>and <placeName type="county" key="Marion County, AR" reg="Marion County">Marion county</placeName>, and I believe the remainder in <placeName type="county" key="Johnson County, AR" reg="Johnson County">Johnson</placeName>. I was intimately acquainted with the most of the persons killed in that train, and it almost chills the blood in my veins to think of the horrible affair, and how those little fellows have suffered</seg>. It does seem to me that our government at least ought to make ample provision for the education and raising of those children.</p>
+
+<p>The season continues fine, health good."</p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

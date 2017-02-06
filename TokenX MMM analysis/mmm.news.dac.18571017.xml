@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="mmm.xsl" type="text/xsl"?><!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" [
+
+]>
+<TEI.2 id="mmm.news.dac.18571017.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mountain Meadows Massacre</title>
+<title level="m" type="sub"></title>
+<author></author>
+<respStmt>
+<resp>Project Director</resp>
+<name>Douglas Seefeldt</name>
+</respStmt>
+<respStmt>
+<resp>Project Team</resp>
+<name>Tonia Compton</name>
+<name>Leslie Working</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition><date>2006</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>mmm.news.dac.18571017.xml</idno><authority>"Rumored Massacre on the Plains:" The Mountain Meadows Massacre in Public Discourse</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2005 by University of Nebraska, all rights reserved.
+Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, University of Nebraska.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+Arkansas emigrants passing through Angel's Camp reveal the identities of the Mountain Meadows victims.
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title level="m">Daily Alta California</title>
+<author>Editor Alta California</author>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Alta California</publisher>
+<pubPlace>San Francisco, CA</pubPlace>
+<date>1857-10-17</date>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="culpability">
+<term>Mormon and Indian</term>
+</keywords>
+<keywords n="sympathy">
+<term>Non-Mormon</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-04-25</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2006-03-02</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+<change>
+<date>2004-01-01</date>
+<respStmt>
+<name>Will Bagley</name>
+</respStmt>
+<item>Original transcription</item>
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<head>THE IMMIGRANT MASSACRE</head>
+<div1 type="Newspaper article">
+
+
+<dateline><placeName rend="settlement" key="Angel's Camp, CA" reg="Angel's Camp, CA">Angels</placeName>, <date value="1857-10-14">October 14, 1857</date>
+</dateline><p><seg type="Source" subtype="Word of Mouth">EDITORS ALTA: This morning, while conversing with some immigrants, who have lately arrived via the Plains from Arkansas, and are living within a few miles of this place, I related to them the circumstances of the massacre.  <seg type="Emigrants" subtype="Wagon Train">They immediately informed me that they knew who the parties were. They stated that there were <seg type="Emigrants" subtype="State Affiliation">three, and perhaps four, companies from Arkansas</seg>, while <seg type="Emigrants" subtype="State Affiliation">the balance of the company was made up of Missourians</seg>, who fell in with them; of these latter, they knew nothing, but the Arkansas companies, consisted of <orgName type="wagontrain" key="Fancher" reg="Fancher">Faziers</orgName>, <orgName type="wagontrain" key="Cameron" reg="Cameron">Camerons</orgName> and the two <orgName type="wagontrain" key="Dunlap" reg="Dunlap">Dunlaps</orgName>, and perhaps <orgName type="wagontrain" key="Baker" reg="Baker">Bakers</orgName>. They were from the counties of <placeName rend="county" key="Marion County, AR" reg="Marion County, AR">Marion</placeName>, <placeName rend="county" key="Carrol County, AR" reg="Carrol County, AR"><sic corr="Carrol">Harrol</sic></placeName> and <placeName rend="county" key="Johnson County, AR" reg="Johnson County, AR">Johnson</placeName>.</seg> <seg type="Emigrants" subtype="Route">They say when they saw them, they were encamped six miles from <placeName rend="settlement" key="Salt Lake City" reg="Salt Lake City">Salt Lake City</placeName>, that they had been there for some time, and that they intended to stay there until the weather got cool enough for them to come by the <placeName rend="route" key="Southern Route" reg="Southern Route">South Pass</placeName>, expecting to make a stay of eight weeks all together.</seg> <persName reg="Baker, John T. 'Jack'">Baker</persName> had not arrived there when they left, but as they can learn nothing from him or his company, they concluded that he had fallen in and decided to come into California with these companies. The two <persName reg="Dunlap, Lorenzo Dow, and family"><persName reg="Dunlap, Jesse, Jr., and family">Dunlaps had each nine children</persName></persName> , some of them well grown. </seg><seg type="Reaction" subtype="California"><seg type="Blame" subtype="LDS"><seg type="Context" subtype="Indian Relations LDS">If these are the persons who were slaughtered, who can be so blind as not to see that the hands of Mormons are stained with this blood. <seg type="Blame" subtype="Indians LDS Influence">How could so large a company remain among them for two months and they not learn one name? and why would the Indians kill every being, except those that were too young to communicate anything to their friends, or hardly tell a name, or tell who were the murderers of their parents, and brothers and sisters; or even discriminate between white men and Indians? Why all this concealment?</seg> and <seg type="Massacre" subtype="Spoils">in the very face of it the Indians tell what they have done and sell all their spoils to the whites.</seg></seg></seg> <seg type="Reaction" subtype="FederalInvestigation">It will do to lay this blood upon them, but I feel certain that investigation will throw it off.</seg>	P.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

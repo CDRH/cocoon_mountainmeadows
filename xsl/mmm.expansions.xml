@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="mmm.xsl" type="text/xsl"?>
+<TEI.2 id="mmm.expansions">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Mountain Meadows Massacre</title>
+                <title level="m" type="sub"/>
+                <author/>
+                <respStmt>
+                    <resp>Project Director</resp>
+                    <name>Douglas Seefeldt</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Project Team</resp>
+                    <name>Tonia Compton</name>
+                    <name>Leslie Working</name>
+                    <name>Brian Pytlik Zillig</name>
+                    <name>Laura Weakly</name>
+                    <name>Zach Bajaber</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2007</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>mmm.expansions</idno>
+                <authority>"Horrible Massacre of Reaction!!" : The Mountain Meadows Massacre in Public Discourse</authority>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unlnotes.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2009</date>
+                <availability>
+                    <p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+                </availability>
+            </publicationStmt>
+
+            <notesStmt>
+                <note type="summary"> </note>
+            </notesStmt>
+
+
+            <sourceDesc>
+                <p>Original.</p>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <profileDesc>
+	        <textClass>
+                <keywords n="culpability">
+                    <term> </term>
+                </keywords>
+                <keywords n="sympathy">
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+
+        <revisionDesc>
+
+            <change>
+                <date>2011-08-31</date>
+                <respStmt>
+                    <name>Jaclyn Cruikshank Vogt</name>
+                </respStmt>
+                <item>Encoding Update</item>
+            </change>
+
+            <change>
+                <date>2007-05-24</date>
+                <respStmt>
+                    <name>Laura Weakly</name>
+                </respStmt>
+                <item>Model and Initial Encoding</item>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+
+    <text>
+
+
+        <body>
+
+            <div1 type="expansions">
+
+
+                <list type="Source">
+                    <head>SOURCE</head>
+
+<!-- Jackie:  In the 2011 revision, "Attributed_" was added in front of sources that attribute information to a specific person, so that there is the option to either display each specific source individually, or to easily distinguish from attributed and unattributed sources.  
+
+Multiple versions of some of the concept expansion tags have been retained temporarily.  For instance, both "Dame" and "Attributed_Dame" are in the 2011 updated version of this file, because not all documents have been regularized in the use of one of these tase over the other. These documents should be regularized, and having both versions is a temporary attempt to more easily catch old tags in the meantime.  Two versions of the tags exist for: tags that have the prefix "Attributed_", LDS is still here, but should be converted to LDS_LDS.  Also, Anti-Mormon Action should be taken out, once fixed.  -->
+
+                    <item>
+                        <abbr type="Source" expan="William H. Dame" n="Dame">Dame</abbr>
+                    </item>
+                    
+                    <item>
+                        <abbr type="Source" expan="Christian" n="Christian">Christian</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="Powers" n="Powers">Powers</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="Warn" n="Warn">Warn</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="Tanner Mathews" n="TannerMathews">TannerMathews</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="Klingensmith" n="Klingensmith">Klingensmith</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="Cradlebaugh" n="Cradlebaugh">Cradlebaugh</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="Lynch" n="Lynch">Lynch</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="Young" n="Young">Young</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="William H. Dame" n="Attributed_Dame">Attributed_Dame</abbr>
+                    </item>
+                    
+                    <item>
+                        <abbr type="Source" expan="Christian" n="Attributed_Christian">Attributed_Christian</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="Powers" n="Attributed_Powers">Attributed_Powers</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="Warn" n="Attributed_Warn">Attributed_Warn</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="Tanner Mathews" n="Attributed_TannerMathews">Attributed_TannerMathews</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="Klingensmith" n="Attributed_Klingensmith">Attributed_Klingensmith</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="Cradlebaugh" n="Attributed_Cradlebaugh">Attributed_Cradlebaugh</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="Lynch" n="Attributed_Lynch">Attributed_Lynch</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="Young" n="Attributed_Young">Attributed_Young</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="Honea" n="Attributed_Honea">Attributed_Honea</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="Abbott" n="Attributed_Abbott">Attributed_Abbott</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="Hamblin" n="Attributed_Hamblin">Attributed_Hamblin</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="Hatch" n="Attributed_Hatch">Attributed_Hatch</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="Greely" n="Attributed_Greely">Attributed_Greely</abbr>
+                    </item>
+                    
+                    <item>
+                        <abbr type="Source" expan="Young, Jr." n="Attributed_YoungJr">Attributed_YoungJr</abbr>
+                    </item>                    
+                    
+                    <item>
+                        <abbr type="Source" expan="Webb" n="Attributed_Webb">Attributed_Webb</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="Children" n="Children">Children</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="Word of Mouth" n="WordofMouth">WordofMouth</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="Public Mind" n="PublicMind">PublicMind</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="Government" n="Government">Government</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="Indians" n="Indians">Government</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Source" expan="Reprinted" n="Reprinted">Reprinted</abbr>
+                        </item>
+
+                    <item>
+                        <abbr type="Source" expan="Deseret News" n="DeseretNews">DeseretNews</abbr>
+                        </item>
+
+                    <item>
+                        <abbr type="Source" expan="Unattributed" n="Unattributed">Unattributed</abbr>
+                        </item>
+
+                    <item>
+                        <abbr type="Source" expan="Unattributed Published Account" n="UnattributedPublishedAccount">UnattributedPublishedAccount</abbr>
+                    </item>
+                </list>
+
+
+                <list type="Context">
+                    <head>CONTEXT</head>
+
+                    <item>
+                        <abbr type="Context" expan="LDS Persecution" n="LDSPersecution">LDSPersecution</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Context" expan="LDS Reformation" n="LDSReformation">LDSReformation</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Context" expan="Indian Relations US" n="IndianRelationsUS">IndianRelationsUS</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Context" expan="Indian Relations LDS" n="IndianRelationsLDS">IndianRelationsLDS</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Context" expan="Territorial Administration" n="TerritorialAdministration">TerritorialAdministration</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Context" expan="Utah War" n="UtahWar">UtahWar</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Context" expan="Pratt Murder" n="PrattMurder">PrattMurder</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Context" expan="Polygamy" n="Polygamy">Polygamy</abbr>
+                    </item>
+
+<!-- LDS Apostates was added in the 2011 revision -->
+
+                    <item>
+                        <abbr type="Context" expan="LDS Apostates" n="LDSApostates">LDSApostates</abbr>
+                    </item>
+
+<!-- Western Violence was added in the 2011 revision -->
+
+                    <item>
+                        <abbr type="Context" expan="Western Violence" n="WesternViolence">WesternViolence</abbr>
+                    </item>
+
+<!-- Parrish Murder was added in the 2011 revision -->
+
+                    <item>
+                        <abbr type="Context" expan="Parrish Murder" n="ParrishMurder">ParrishMurder</abbr>
+                    </item>
+
+<!-- Gunnison Murder was added in the 2011 revision -->
+
+                    <item>
+                        <abbr type="Context" expan="Gunnison Murder" n="GunnisonMurder">GunnisonMurder</abbr>
+                    </item>
+
+                </list>
+
+
+                <list type="Emigrants">
+                    <head>EMIGRANTS</head>
+
+                    <item>
+                        <abbr type="Emigrants" expan="Wagon Train" n="WagonTrain">WagonTrain</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Emigrants" expan="Route" n="Route">Route</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Emigrants" expan="State Affiliation Arkansas" n="StateAffiliationArkansas">StateAffiliationArkansas</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Emigrants" expan="State Affiliation Missouri" n="StateAffiliationMissouri">StateAffiliationMissouri</abbr>
+                    </item>
+                    
+<!-- State Affiliation Illinois was added in the 2011 revision -->
+
+                    <item>
+                        <abbr type="Emigrants" expan="State Affiliation Illinois" n="StateAffiliationIllinois">StateAffiliationIllinois</abbr>
+                    </item>
+
+                </list>
+
+
+                <list type="Encounter">
+                    <head>ENCOUNTER</head>
+
+                    <item>
+                        <abbr type="Encounter" expan="Slander" n="Slander">Slander</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Encounter" expan="Poison" n="Poison">Poison</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Encounter" expan="Trade LDS" n="TradeLDS">TradeLDS</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Encounter" expan="Trade Indian" n="TradeIndian">TradeIndian</abbr>
+                    </item>
+                </list>
+
+
+                <list type="Massacre">
+                    <head>MASSACRE</head>
+
+                    <item>
+                        <abbr type="Massacre" expan="Location" n="Location">Location</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Massacre" expan="Dates" n="Dates">Dates</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Massacre" expan="Planning" n="Planning">Planning</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Massacre" expan="Battle" n="Battle">Battle</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Massacre" expan="Rescue Attempt" n="RescueAttempt">Rescue Attempt</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Massacre" expan="Casualties" n="Casualties">Casualties</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Massacre" expan="Survivors" n="Survivors">Survivors</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Massacre" expan="Aftermath" n="Aftermath">Aftermath</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Massacre" expan="Spoils" n="Spoils">Spoils</abbr>
+                    </item>
+                    
+<!-- Surrender was added in the 2011 revision -->
+
+                    <item>
+                        <abbr type="Massacre" expan="Surrender" n="Surrender">Surrender</abbr>
+                    </item>
+
+<!-- Sexual Violence was added in the 2011 revision -->
+
+                    <item>
+                        <abbr type="Massacre" expan="Sexual Violence" n="SexualViolence">SexualViolence</abbr>
+                    </item>
+                    
+                </list>
+
+
+                <list type="Coverage">
+                    <head>COVERAGE</head>
+
+                    <item>
+                        <abbr type="Coverage" expan="LDS" n="LDS">LDS</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Coverage" expan="Utah" n="Utah">Utah</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Coverage" expan="California" n="California">California</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Coverage" expan="Arkansas" n="Arkansas">Arkansas</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Coverage" expan="Eastern" n="Eastern">Eastern</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Coverage" expan="Western" n="Western">Western</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Coverage" expan="Midwestern" n="Midwestern">Midwestern</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Coverage" expan="Southern" n="Southern">Southern</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Coverage" expan="Foreign" n="Foreign">Foreign</abbr>
+                    </item>
+
+                </list>
+
+
+                <list type="Reaction">
+                    <head>REACTION</head>
+
+                    <item>
+                        <abbr type="Reaction" expan="Military Retaliation" n="MilitaryRetaliation">MilitaryRetaliation</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Reaction" expan="Federal Investigation" n="FederalInvestigation">FederalInvestigation</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Reaction" expan="State Investigation" n="StateInvestigation">StateInvestigation</abbr>
+                    </item>
+
+<!-- Mob Violence was changed to Extra-legal Violence in the 2011 revision -->
+
+                    <item>
+                        <abbr type="Reaction" expan="Extra-legal Violence" n="Extra-legalViolence">Extra-legalViolence</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Reaction" expan="Anti-Mormon Action" n="Anti-MormonAction">Anti-MormonAction</abbr>
+                    </item>
+
+<!-- Commemoration was added in the 2011 revision -->
+
+                    <item>
+                        <abbr type="Reaction" expan="Commemoration" n="Commemoration">Commemoration</abbr>
+                    </item>
+
+<!-- Silence was added in the 2011 revision -->
+
+                    <item>
+                        <abbr type="Reaction" expan="Silence" n="Silence">Silence</abbr>
+                    </item>
+
+<!-- Anti-Mormon Action was removed in the 2011 revision -->
+                    
+                </list>
+
+
+                <list type="Blame">
+                    <head>BLAME</head>
+
+<!-- Note about LDS Tags:
+
+Jackie: In the original concept highlighting, there were specific distintions drawn between types of LDS Blame (Greed, Retribution, Blood Atonement, Zealots, and Leadership). Because these are such fine distinctions, and lead to questions of definition, all of the specific categories of LDS Blame are being condenced into one, unified heading, simply "LDS." In order not to lose the original, more specific coding, however, the prefix "LDS_" was added to each type of LDS Blame.)
+
+                    <item>
+                        <abbr type="Blame" expan="LDS" n="">LDS</abbr>
+                    </item>
+
+not sure how to encode this to make it catch all types of "LDS_" expansions....
+
+End of Note -->
+
+
+                    <item>
+                        <abbr type="Blame" expan="LDS" n="LDS_LDS">LDS_LDS</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Blame" expan="LDS" n="LDS">LDS</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Blame" expan="LDS Retribution" n="LDS_LDSRetribution"
+                            >LDS_LDSRetribution</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Blame" expan="LDS Blood Atonement" n="LDS_LDSBloodAtonement">LDS_LDSBloodAtonement</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Blame" expan="LDS Greed" n="LDS_LDSGreed">LDS_LDSGreed</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Blame" expan="LDS Zealots" n="LDS_LDSZealots">LDS_LDSZealots</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Blame" expan="LDS Leadership" n="LDS_LDSLeadership">LDS_LDSLeadership</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Blame" expan="US Government" n="USGovernment">USGovernment</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Blame" expan="Emigrant Behavior" n="EmigrantBehavior">EmigrantBehavior</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Blame" expan="Missouri Wild Cats" n="MissouriWildCats">MissouriWildCats</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Blame" expan="Indians Independently" n="IndiansIndependently">IndiansIndependently</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Blame" expan="Indians LDS Influence" n="IndiansLDSInfluence">IndiansLDSInfluence</abbr>
+                    </item>
+
+                    <item>
+                        <abbr type="Blame" expan="Gentiles" n="Gentiles">Gentiles</abbr>
+                    </item>
+
+<!-- Lee was added in the 2011 revision -->
+
+                    <item>
+                        <abbr type="Blame" expan="Lee" n="Lee">Lee</abbr>
+                    </item>
+
+                </list>
+
+
+            </div1>
+        </body>
+    </text>
+</TEI.2>

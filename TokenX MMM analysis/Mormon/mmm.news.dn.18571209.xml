@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="mmm.xsl" type="text/xsl"?><!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "mmm.dtd" [
+
+]>
+<TEI.2 id="mmm.news.dn.18571209.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mountain Meadows Massacre</title>
+<title level="m" type="sub"></title>
+<author></author>
+<respStmt>
+<resp>Project Director</resp>
+<name>Douglas Seefeldt</name>
+</respStmt>
+<respStmt>
+<resp>Project Team</resp>
+<name>Tonia Compton</name>
+<name>Leslie Working</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition><date>2006</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>mmm.news.dn.18571209.xml</idno><authority>"Rumored Massacre on the Plains:" The Mountain Meadows Massacre in Public Discourse</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2005 by University of Nebraska, all rights reserved.
+Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, University of Nebraska.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title level="m"></title>
+<author></author>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date></date>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="culpability">
+<term>Indians </term>
+</keywords>
+<keywords n="sympathy">
+<term>LDS</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-05-10</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2006-03-02</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+<change>
+<date>2007-05-10</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Original transcription</item>
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="Newspaper article">
+<head>NOTICE</head>
+<!-- text not transcribed or encoded -->
+<milestone unit="horbar" />
+<p>THE CALIFORNIA MAIL arrived on the <date value="1857-12-03">3d inst.</date>, but as usual brought no news of importance, except a lengthy and splendid reply to President Buchanan's letter to the memorialists in Connecticut, (which we shall print at an early date) and word that all or nearly all the California editors are blowing and striking in perfect Phrenzy about the late massacre of emigrants by Indians at the Mountain Meadows, pouring all the blame, as is so customary, upon the 'Mormons.' Of course, the 'Mormons' should feed, clothe, and civilize the wild and degraded red man, with, comparatively, scarcely a farthing's worth of assistance form the Government, and then, when passers have poisoned, cheated, abused, and wantonly slain the Indians forsooth the cankering venom of recreat editors is ruthlessly poured upon the 'Mormons' for not turning out in mass and standing between savage vengeance and those who excited it, which they well know, or should, is no more our business than it is theirs, and is in fact the immediate duty of the Parent Government. 
+</p>
+<p>Messrs. California editors, so long as the whites prefer to wantonly trample in the dust the untutored aborigines, so long they may expect to meet that indiscriminate vengeance so traditionary with the race; and by bearing this fact, known of all, in constant mind, you may avoid the sin of continually heaping false accusations upon an innocent people.
+<milestone unit="horbar" />
+<!-- text not transcribed or encoded -->
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

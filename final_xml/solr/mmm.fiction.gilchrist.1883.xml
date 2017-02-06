@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <doc>
+      <field name="id">mmm.fiction.gilchrist.1883</field>
+      <field name="itemCategory">fiction</field>
+      <field name="titleMain">Apples of Sodom: A Story of Mormon Life</field>
+      <field name="author">Rosetta Luce Gilchrist</field>
+      <field name="dateSearch">1883</field>
+      <field name="dateDisp">1883</field>
+      <field name="place">Cleveland, OH</field>
+      <field name="state">Cleveland, OH</field>
+      <field name="source">Apples of Sodom: A Story of Mormon Life</field>
+      <field name="text"> 
+
+
+
+
+At length, after driving several miles, Mike turned to Reuben, a curious expression in his round, good-humored face.
+
+"It’s a roight foine marnin’ for a brush wid the Injuns out here," he remarked.
+
+"With the Indians? You are not anticipating such a contingency as that, I hope," replied Reuben.
+
+"Shure, Injuns or Mormons, it made little difference to the poor craythurs in the Mountain Meadow job. The onnathral brutes gave ’em no time to find out which; but do you hear the clatter and splather of horses behint us?"
+
+
+ </field>
+   </doc>
+</add>

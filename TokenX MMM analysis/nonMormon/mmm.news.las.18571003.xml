@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="mmm.xsl" type="text/xsl"?><!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "mmm.dtd" [
+
+]>
+<TEI.2 id="mmm.new.las.18571003.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mountain Meadows Massacre</title>
+<title level="m" type="sub"></title>
+<author></author>
+<respStmt>
+<resp>Project Director</resp>
+<name>Douglas Seefeldt</name>
+</respStmt>
+<respStmt>
+<resp>Project Team</resp>
+<name>Tonia Compton</name>
+<name>Leslie Working</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition><date>2006</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>mmm.new.las.18571003.xml</idno><authority>"Rumored Massacre on the Plains:" The Mountain Meadows Massacre in Public Discourse</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2005 by University of Nebraska, all rights reserved.
+Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, University of Nebraska.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">An initial report of the massacre at Mountain Meadows.
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title level="m">Los Angeles Star</title>
+<author>Editor Los Angeles Star</author>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Los Angeles Star</publisher>
+<pubPlace>Los Angeles</pubPlace>
+<date>1857-10-03</date>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="culpability">
+<term>Mormon and Indian</term>
+</keywords>
+<keywords n="sympathy">
+<term>Non-Mormon</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-04-23</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2006-03-02</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+<div1 type="Newspaper article">
+<head>RUMORED MASSACRE ON THE PLAINS.</head>
+	<p><seg type="Source" subtype="Word of Mouth">We have just been informed by <persName reg="Brown, John">Judge Brown</persName> of <placeName type="settlement" key="San Bernardino" reg="San Bernardino">San Bernardino</placeName>, who has arrived in town from that city, that a rumor was prevalent there, and had obtained general belief, that <seg type="Emigrants" subtype="Wagon Train">a whole train of emigrants from <placeName type="settlement" key="Salt Lake City" reg="Salt Lake City">Salt Lake city</placeName>, for <placeName type="settlement" key="San Bernardino" reg="San Bernardino">San Bernardino</placeName>, composed of twenty-five families, comprising ninety-five persons, men and women,</seg> had been cruelly massacred on the road, between the last settlements in <placeName type="state" key="Utah Territory" reg="Utah Territory">Utah Territory</placeName> and the boundary of this State.</seg></p>
+	<p><seg type="Source" subtype="Word of Mouth">All the property of the company had been carried off, and only the children left, who were picked up on the ground, and were being conveyed to <placeName type="settlement" key="San Bernardino" reg="San Bernardino">San Bernardino</placeName>.</seg></p>
+	<p><seg type="Source" subtype="Word of Mouth">This intelligence was brought on by another party who had started from the city after the reported missing company, and who had overtaken the mail carrier in the <geogName type="valley" reg="Cajon Pass">Cajon Pass</geogName>, where he is said to have encamped on Wednesday night.</seg></p>
+	<p><seg type="Source" subtype="Word of Mouth">No further particulars are known, nor any names given or any account of the finding and disposition of the bodies. We give the rumor for what it is worth. The alleged facts are without authenticity as yet, the party not having arrived in <placeName type="settlement" key="San Bernardino" reg="San Bernardino">San Bernardino</placeName> at the time our informant left.</seg></p>
+	<p><seg type="Source" subtype="Public Mind">Although the rumor was generally believed in <placeName type="settlement" key="San Bernardino" reg="San Bernardino">San Bernardino</placeName>, we confess our unwillingness to credit such a wholesale massacre.</seg></p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

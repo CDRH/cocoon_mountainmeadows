@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <doc>
+      <field name="id">mmm.news.las.18571003</field>
+      <field name="itemCategory">newspaper</field>
+      <field name="titleMain">Rumored Massacre on the Plains</field>
+      <field name="author">Editor Los Angeles Star</field>
+      <field name="dateSearch">1857-10-03</field>
+      <field name="dateDisp">October 3, 1857</field>
+      <field name="place">Los Angeles, CA</field>
+      <field name="state">Los Angeles, CA</field>
+      <field name="source">Los Angeles Star</field>
+      <field name="text">
+
+
+
+    
+    
+
+Rumored Massacre on the Plains.
+
+We have just been informed by Judge Brown of San Bernardino, who has arrived in town from that city, that a rumor was prevalent there, and had obtained general belief, that a whole train of emigrants from Salt Lake city, for San Bernardino, composed of twenty-five families, comprising ninety-five persons, men and women, had been cruelly massacred on the road, between the last settlements in Utah Territory and the boundary of this State.
+
+All the property of the company had been carried off, and only the children left, who were picked up on the ground, and were being conveyed to San Bernardino.
+
+This intelligence was brought on by another party who had started from the city after the reported missing company, and who had overtaken the mail carrier in the Cajon Pass, where he is said to have encamped on Wednesday night.
+
+No further particulars are known, nor any names given or any account of the finding and disposition of the bodies. We give the rumor for what it is worth. The alleged facts are without authenticity as yet, the party not having arrived in San Bernardino at the time our informant left.
+
+Although the rumor was generally believed in San Bernardino, we confess our unwillingness to credit such a wholesale massacre.
+
+
+
+ </field>
+   </doc>
+</add>

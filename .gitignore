@@ -1,0 +1,9 @@
+*.svn
+figures/*
+audio/*
+config.xsl
+post.py
+data_mountainmeadows/*
+search/*
+
+.DS_Store

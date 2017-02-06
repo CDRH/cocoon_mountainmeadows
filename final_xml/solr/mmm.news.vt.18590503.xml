@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <doc>
+      <field name="id">mmm.news.vt.18590503</field>
+      <field name="itemCategory">newspaper</field>
+      <field name="titleMain">Personal</field>
+      <field name="author"/>
+      <field name="dateSearch">1859-05-03</field>
+      <field name="dateDisp">May 3, 1859</field>
+      <field name="place">Salt Lake City, UT</field>
+      <field name="state">Salt Lake City, UT</field>
+      <field name="source">Valley Tan</field>
+      <field name="text">
+
+
+
+
+    
+    
+
+Personal.—
+
+Dr. Forney, the Superintendent of Indian Affairs, arrived in this city from his late visit to the southern portion of the Territory.  The Doctor looks well and is in good health, and reports the Indians in that vicinity as peaceable.  He brought with him three of the children, survivors of the Mountain Meadow massacre, the others as will be seen by reference to another paragraph, are at the Indian farm at the Spanish Fork.  The children that he brought up are apparently very intelligent and have a lively recollection of the bloody deeds that consigned their parents and friends to death, if there were no other proof know the difference between an indian and a white man.
+
+
+
+ </field>
+   </doc>
+</add>

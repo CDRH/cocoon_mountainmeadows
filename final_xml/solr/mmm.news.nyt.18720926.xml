@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <doc>
+      <field name="id">mmm.news.nyt.18720926</field>
+      <field name="itemCategory">newspaper</field>
+      <field name="titleMain">Evidence on the Mountain Meadow Massacre</field>
+      <field name="author"/>
+      <field name="dateSearch">1872-09-26</field>
+      <field name="dateDisp">September 26, 1872</field>
+      <field name="place">New York, NY</field>
+      <field name="state">New York, NY</field>
+      <field name="source">New York Times</field>
+      <field name="text">
+
+
+
+
+
+    
+    
+
+
+Evidence on the Mountain Meadow Massacre.
+  
+SALT LAKE CITY, Sept, 25.—Affidavits were taken here today regarding the Mountain Meadow massacre, which fully corroborate the testimony of Bishop Smith, and give further details
+showing more positively the guilt of the Mormon leaders.  Testimony was obtained here today proving the identity of the assassins of Dr. Robinson.
+
+
+
+ </field>
+   </doc>
+</add>

@@ -1,0 +1,51 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+
+        <script src="http://api.simile-widgets.org/timeline/2.3.1/timeline-api.js?bundle=true" type="text/javascript"></script>
+
+    </head>
+    <body onload="onLoad();" onresize="onResize();">
+        <div id="mmm_newspaper" style="height: 650px; border: 1px solid #aaa"></div>
+        <script>
+var tl;
+function onLoad() {
+var eventSource = new Timeline.DefaultEventSource();           var bandInfos = [
+    Timeline.createBandInfo({
+	eventSource:    eventSource,
+        date:           "October 5, 1857",
+        width:          "85%", 
+        intervalUnit:   Timeline.DateTime.MONTH, 
+        intervalPixels: 350
+    }),
+    Timeline.createBandInfo({
+      showEventText:  false,
+        trackHeight:    0.5,
+        trackGap:       0.2,
+	eventSource:    eventSource,
+        date:           "October 5, 1857",
+        width:          "20%", 
+        intervalUnit:   Timeline.DateTime.YEAR, 
+        intervalPixels: 200
+    })
+  ];
+  bandInfos[1].syncWith = 0;
+  bandInfos[1].highlight = true; bandInfos[1].eventPainter.setLayout(bandInfos[0].eventPainter.getLayout());
+  tl = Timeline.create(document.getElementById("mmm_newspaper"), bandInfos);
+  tl.loadXML("example1.xml", function(xml, url) {
+                eventSource.loadXML(xml, url); });
+}
+
+var resizeTimerID = null;
+function onResize() {
+    if (resizeTimerID == null) {
+        resizeTimerID = window.setTimeout(function() {
+            resizeTimerID = null;
+            tl.layout();
+        }, 500);
+    }
+}
+</script>
+    </body>
+</html>

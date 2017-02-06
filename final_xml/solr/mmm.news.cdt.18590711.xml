@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <doc>
+      <field name="id">mmm.news.cdt.18590711</field>
+      <field name="itemCategory">newspaper</field>
+      <field name="titleMain">The Mountain Meadow Massacre</field>
+      <field name="author">Editor Chicago Daily Tribune</field>
+      <field name="dateSearch">1859-07-11</field>
+      <field name="dateDisp">July 11, 1859</field>
+      <field name="place">Chicago, IL</field>
+      <field name="state">Chicago, IL</field>
+      <field name="source">Chicago Daily Tribune</field>
+      <field name="text">
+
+
+
+
+
+
+    
+
+The Mountain Meadow Massacre
+
+The chief motive that prompted the Mormons to commit the Mountain Meadow massacre seems to have been plunder. Atrocities too horrible to be related, and which seemed to shock the savages themselves, are related by persons who claim to have been compelled to sin in that massacre. The number of persons in the train was about one hundred and forty. The property confiscated amounted to from $60,000 to $80,000, counting 700 cattle, horses and mules, some very fine stock, and forty wagons and carriages.
+
+
+
+ </field>
+   </doc>
+</add>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <doc>
+      <field name="id">mmm.news.dn.18571209</field>
+      <field name="itemCategory">newspaper</field>
+      <field name="titleMain">Untitled [The California Mail…]</field>
+      <field name="author"/>
+      <field name="dateSearch">1857-12-09</field>
+      <field name="dateDisp">December 9, 1857</field>
+      <field name="place">Salt Lake City, UT</field>
+      <field name="state">Salt Lake City, UT</field>
+      <field name="source">Deseret News</field>
+      <field name="text">
+
+
+
+
+    
+    
+
+THE CALIFORNIA MAIL arrived on the 3d inst., except a lengthy and splendid reply to President Buchanan's letter to the memorialists in Connecticut, (which we shall print at an early date) and word that all or nearly all the California editors are blowing and striking in perfect phrenzy about the late massacre of emigrants by Indians at the Mountain Meadows, pouring all the blame, as is so customary, upon the 'Mormons.' Of course the 'Mormans' should feed, clothe and civilize the wild and degraded red man, with, comparatively, scarcely a farthing's worth of assistance from the Goverment, and then, when passers have poisoned, cheated, abused and wantonly slain the indians, forsooth the cankering venom of recreant editors is ruthlessly poured upon the 'Mormons' for not turning out in mass and standing between savage vengence and those who excited it, which they well know, or should, is no more our buisness than it is theirs, and is in fact the immediate duty of the Parent Government.
+
+Messrs. California editors, so long as the whites prefer to wantonly trample in the dust the untutored aborigines, so long they may expect to meet that indiscriminate vengeance so traditionary with the race; and by bearing this fact, known for all, in constant mind, you may avoid the sin of continually heaping false accusations upon an innocent people.
+
+
+
+ </field>
+   </doc>
+</add>

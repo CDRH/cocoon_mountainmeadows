@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <doc>
+      <field name="id">mmm.fiction.henry.1902</field>
+      <field name="itemCategory">fiction</field>
+      <field name="titleMain">By Order of the Prophet: A Tale of Utah</field>
+      <field name="author">Alfred Hylas Henry</field>
+      <field name="dateSearch">1902</field>
+      <field name="dateDisp">1902</field>
+      <field name="place">Chicago, IL</field>
+      <field name="state">Chicago, IL</field>
+      <field name="source">By Order of the Prophet: A Tale of Utah</field>
+      <field name="text"> 
+
+
+
+
+In the meanwhile, events of world-wide interest were happening in other portions of the territory. The fiendish crime at Mountain Meadows was perpetrated in September, whereby one hundred and twenty unarmed, unresisting, innocent and inoffensive men, women and children were butchered in cold blood by Indians and white men, instigated and led by members of the Mormon priesthood.
+
+
+ </field>
+   </doc>
+</add>

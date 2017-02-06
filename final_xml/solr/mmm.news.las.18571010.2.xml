@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <doc>
+      <field name="id">mmm.news.las.18571010.2</field>
+      <field name="itemCategory">newspaper</field>
+      <field name="titleMain">From Salt Lake City</field>
+      <field name="author">Editors Los Angeles Star</field>
+      <field name="dateSearch">1857-10-10</field>
+      <field name="dateDisp">October 10, 1857</field>
+      <field name="place">Los Angeles, CA</field>
+      <field name="state">Los Angeles, CA</field>
+      <field name="source">Los Angeles Star</field>
+      <field name="text">From Will Bagley. 
+
+
+
+
+	
+
+
+From Salt Lake City.
+
+By the arrival of the mail here this week, we received our files of the Deseret News. On glancing over the columns, we find nothing of local importance, and have no space for extracts from the sermons and addresses delivered by the Presidents, Bishops and Elders. They are in the usual style of those leaders of the church.
+
+
+
+ </field>
+   </doc>
+</add>

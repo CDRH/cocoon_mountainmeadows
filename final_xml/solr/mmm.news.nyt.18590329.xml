@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <doc>
+      <field name="id">mmm.news.nyt.18590329</field>
+      <field name="itemCategory">newspaper</field>
+      <field name="titleMain">From Salt Lake</field>
+      <field name="author"/>
+      <field name="dateSearch">1859-03-29</field>
+      <field name="dateDisp">March 29, 1859</field>
+      <field name="place">New York, NY</field>
+      <field name="state">New York, NY</field>
+      <field name="source">New York Times</field>
+      <field name="text">
+
+
+
+
+    
+    
+
+From Salt Lake.   
+
+St. Louis, Sunday, March 27.
+
+We have advices from Salt Lake to the 15th ult.
+The Indians in the vicinity of Santa Clara having
+killed several white persons, Gov. CUMMING had
+made a requisition upon Gov. JOHNSTON for troops to
+chastise them.  Seventeen white children who were
+captured by the Indians at the massacre eighteen
+months ago at Mountain Meadows, when 140 emigrants
+were murdered, have been recovered from 
+their captors.
+
+
+
+ </field>
+   </doc>
+</add>

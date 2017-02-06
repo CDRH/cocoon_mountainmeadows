@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="mmm.xsl" type="text/xsl"?><!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "TEI.dtd" [
+
+]>
+<TEI.2 id="mmm.news.dn.18590629.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mountain Meadows Massacre</title>
+<title level="m" type="sub"></title>
+<author></author>
+<respStmt>
+<resp>Project Director</resp>
+<name>Douglas Seefeldt</name>
+</respStmt>
+<respStmt>
+<resp>Project Team</resp>
+<name>Tonia Compton</name>
+<name>Leslie Working</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition><date>2006</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>mmm.news.dn.18590629.xml</idno><authority>"Rumored Massacre on the Plains:" The Mountain Meadows Massacre in Public Discourse</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2005 by University of Nebraska, all rights reserved.
+Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, University of Nebraska.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title level="m">Deseret News</title>
+<author>Editor</author>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Deseret News</publisher>
+<pubPlace>Salt Lale City, UT</pubPlace>
+<date>1859-06-29</date>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="culpability">
+<term> </term>
+</keywords>
+<keywords n="political">
+<term>LDS</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-04-27</date>
+<respStmt>
+<name>Douglas Seefeldt</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2006-03-02</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+<change>
+<date>2004-01-01</date>
+<respStmt>
+<name>Will Bagley</name>
+</respStmt>
+<item>Original transcription</item>
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1 type="Newspaper article">
+
+<head>AFFAIRS IN UTAH!!</head>
+
+<p>The President's Instructions to the District Attorney of the Territory.<lb/>
+
+The following letter from the United States Attorney General to the District Attorney for Utah is published in the <orgName type="Newspaper" key="Washington Constitution" reg="Washington Constitution">Washington Constitution</orgName><lb/></p>
+
+<p><dateline><date value="1859-05-17">May 17, 1859</date></dateline><lb/>
+<persName reg="Wilson, Alexander">Sir</persName></p>
+<p>Your letters of March 24 and April 6 addressed to <persName reg="Black, Jeremiah Sullivan">me</persName> have been received. The grave import of the facts contained in them, and in other communications from Utah by the same mail, required that the whole correspondence of the several departments with the officers of the Territory should be laid before the <persName reg="Buchanan, James">President</persName>.-He has carefully considered the subject, and his opinion will be found in a letter to the two Associate Justices of the Territory-a copy of which I send you.</p>
+
+<p>You are clothed with the authority of a public accuser for the <placeName type="state" key="Utah Territory" reg="Utah Territory">Territory</placeName>. It is your duty to commence and carry on all public prosecutions with such aid and assistance as you see proper to call in. On proper occasions, in a proper, respectful manner you must oppose every effort which any judge may make to usurp your functions.-Do not allow your rights to remain unasserted.-If the judges will confine themselves to the simple and plain duty imposed upon them by law of hearing and deciding cases that are brought before them, I am sure that the business of the <placeName type="state" key="Utah Territory" reg="Utah Territory">Territory </placeName>will get along very well. This must be impressed upon their minds, if possible, for, if they will insist upon doing the duties of Prosecuting Attorney, and Marshal, as well as their own, every thing will be thrown into confusion, and the peace of the <placeName type="state" key="Utah Territory" reg="Utah Territory">Territory </placeName>may be destroyed at any moment.</p>
+
+<p>But your duty must be performed with energy and impartiality. Every crime that is committed, no matter by whom, should be exposed and punished. I need not say that you are to make no distinction between Gentile and <orgName type="religious" key="LDS" reg="Church of Jesus Christ of Later-day Saints">Mormon</orgName>, or between <orgName type="native" reg="Indian">Indian </orgName>and white man. You will prosecute the rich and the poor, the influential and the humble with equal vigor, and thus entitle yourself to the confidence of all.</p>
+
+<p>It is only by these general remarks that I can express the wishes of the <persName reg="Buchanan, James">President </persName>with reference to your office; for at this distance it is impossible to give you detailed instructions. But there is one subject to which I would call your special attention. It appears that a company of emigrants from <seg type="Emigrants" subtype="State Affiliation">Arkansas </seg>to <seg type="Emigrants" subtype="Route">California </seg>was <seg type="Massacre" subtype="Battle">attacked </seg>at <seg type="Massacre" subtype="Location">Mountain Meadows</seg>, <seg type="Massacre" subtype="Location">three hundred miles south of Salt Lake</seg>, and <seg type="Massacre" subtype="Casualties">one hundred and nineteen</seg> cruelly murdered, none being spared except <seg type="Massacre" subtype="Survivors">a few children</seg>, all of whom were under seven years of age. This crime, by whomever committed, was one of the most atrocious that has ever blackened the character of the human race. <seg type="Blame" subtype="Indians Independently">The Mormons blame it upon the Indians</seg>, and the accusation receives some color from the fact that <seg type="Massacre" subtype="Survivors">all the children who survived the massacre were found in the possession of Indians</seg>; others, among them a <persName reg="Cradlebaugh, John">judge of the territory</persName>, declared their unhesitating belief that <seg type="Blame" subtype="LDS">the Mormons themselves committed this foul murder</seg>. All the circumstances seem, from the correspondence, to be enveloped in mystery. In your letter the manner of the murder is described-showing that <seg type="Massacre" subtype="Battle">the emigrants agreed to surrender their arms upon the promise that their lives should be spared, and after doing so were all of them treacherously butchered.</seg> Why does the information stop there? If that much be known how is it that we know no more? Who were the parties that received this surrender and how is it proved? Cannot the <persName reg="Young, Brigham">Superintendent of Indian Affairs</persName>, or someone connected with that department of the public service <seg type="Massacre" subtype="Survivors">trace back the children from the Indians in whose possession they were found to <seg type="Massacre" subtype="Battle">the corral, where their parents were slain</seg></seg>. <seg type="Massacre" subtype="Spoils">It is said that some of the Mormon inhabitants of Utah have property of the emigrants in their possession.</seg> If this be true, will it not furnish a thread which, properly followed, would lead back to the scene of the crime?</p>
+
+<p>These are mere suggestions, which are intended to show the interest of the government on the subject, rather than instruct you in the performance of your duty. It is, however, confidently expected of you that you will intermit no watch, nor let any opportunity escape you of learning all that can be known upon this subject. If you shall be under the necessity of employing agents, such reasonable expenses as you may be put to on that account will be paid.</p>
+
+<p>Your conduct at Provo seems, from all accounts of it, to have been perfectly proper, and is totally approved by the <persName reg="Buchanan, James">President</persName>. Your refusal on a former occasion to violate the promise of pardon contained in the President's proclamation, was equally praiseworthy and correct.</p>
+
+	<closer><salute>I am, very respectfully,
+		Yours &amp;c.,</salute>
+<signed>J. S. BLACK</signed>.
+<persName reg="Wilson, Alexander">ALEX. WILSON, Esq.,
+
+U.S. District Attorney, 
+Utah Territory</persName></closer>
+
+</div1>
+</body>
+</text>
+</TEI.2>

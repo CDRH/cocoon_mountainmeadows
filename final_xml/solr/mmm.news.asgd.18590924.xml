@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <doc>
+      <field name="id">mmm.news.asgd.18590924</field>
+      <field name="itemCategory">newspaper</field>
+      <field name="titleMain">Extract from a letter to this office, dated "Mt. Pleasant, Carroll Co., Ark."</field>
+      <field name="author">Editor</field>
+      <field name="dateSearch">1859-09-24</field>
+      <field name="dateDisp">September 24, 1859</field>
+      <field name="place">Little Rock, AR</field>
+      <field name="state">Little Rock, AR</field>
+      <field name="source">Arkansas State Gazette and Democrat</field>
+      <field name="text">
+
+
+
+    
+    
+
+Extract from a letter to this office, dated "MT. PLEASANT, CARROLL CO., ARK."
+
+September 14, 1859.
+
+"Col. Mitchell has arrived home with the surviving children of the Mountain Meadow massacre, except two of the oldest who were detained at Salt Lake City as witnesses. He will deliver them to their nearest relatives on tomorrow, at Carrolton—the most of them belonging in this and Marion county, and I believe the remainder in Johnson. I was intimately acquainted with the most of the persons killed in that train, and it almost chills the blood in my veins to think of the horrible affair, and how those little fellows have suffered. It does seem to me that our government at least ought to make ample provision for the education and raising of those children.
+
+The season continues fine, health good."
+
+
+
+ </field>
+   </doc>
+</add>

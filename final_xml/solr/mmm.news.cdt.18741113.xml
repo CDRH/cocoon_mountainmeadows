@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <doc>
+      <field name="id">mmm.news.cdt.18741113</field>
+      <field name="itemCategory">newspaper</field>
+      <field name="titleMain">The Mountain Meadows Massacre</field>
+      <field name="author"/>
+      <field name="dateSearch">1874-11-13</field>
+      <field name="dateDisp">November 13, 1874</field>
+      <field name="place">Chicago, IL</field>
+      <field name="state">Chicago, IL</field>
+      <field name="source">Chicago Daily Tribune</field>
+      <field name="text">
+
+
+
+
+
+
+    
+
+The Mountain Meadow Massacre.
+
+SALT LAKE, Nov 12—John D. Lee, now in prison at Beaver, charged with being connected with the Mountain Meadow Massacre of 1857, when 120 Arkansas emigrants were murdered, it is said will give a true history of the whole affair, and the names of the parties interested.
+
+
+
+ </field>
+   </doc>
+</add>

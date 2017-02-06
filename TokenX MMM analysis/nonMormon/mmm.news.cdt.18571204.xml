@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="mmm.xsl" type="text/xsl"?><!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "mmm.dtd" [
+
+]>
+<TEI.2 id="mmm.news.cdt.18570412.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mountain Meadows Massacre</title>
+<title level="m" type="sub"></title>
+<author></author>
+<respStmt>
+<resp>Project Director</resp>
+<name>Douglas Seefeldt</name>
+</respStmt>
+<respStmt>
+<resp>Project Team</resp>
+<name>Tonia Compton</name>
+<name>Leslie Working</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition><date>2006</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>mmm.news.cdt.18570412.xml</idno><authority>"Rumored Massacre on the Plains:" The Mountain Meadows Massacre in Public Discourse</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2005 by University of Nebraska, all rights reserved.
+Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, University of Nebraska.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+An early Chicago report about the Mountain Meadows Massacre. 
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title level="m">Chicago Daily Tribune</title>
+<author>Editor Chicago Daily Tribune</author>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Chicago Daily Tribune</publisher>
+<pubPlace>Chicago, IL</pubPlace>
+<date>1857-12-04</date>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="culpability">
+<term>Mormon and Indians</term>
+</keywords>
+<keywords n="sympathy">
+<term>Non-Mormon</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-05-02</date>
+<respStmt>
+<name>Leslie Working</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2006-03-02</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+<change>
+<date>2004-01-01</date>
+<respStmt>
+<name>Will Bagley</name>
+</respStmt>
+<item>Original transcription</item>
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<div1 type="Newspaper article">
+
+<head>Terrible Massacre of Emigrants by the Mormons and Indians.</head>
+<p>Elsewhere we publish late and exciting news from California, in regard <seg type="Massacre" subtype="Casualties">the massacre of 120 American emigrants</seg> who were crossing the plains en route to California. <seg type="Blame" subtype="IndiansLDSInfluence">The actual perpetrators of the massacre were no doubt Indians; but the suspicion is, that they were encouraged, instigated, and perhaps led on by Mormons.</seg></p>
+<p><seg type="Emigrants" subtype="WagonTrain">The party in question is said to have consisted of about 135 men, women and children, including some forty or forty-five capable of bearing-arms. <seg type="Emigrants" subtype="StateAffiliation">They were from Arkansas</seg>, were well provided, and. had with them quite a stock of horses, mules, and oxen.</seg> <seg type="Emigrants" subtype="route">They had traveled across the plains by the way of Great Salt Lake City, on their way to. Southern California, and had reached <seg type="Massacre" subtype="Location">the rim of the great basin,</seg> about three hundred miles south-west of the <placeName type="settlement" key="Salt Lake City, UT" reg="Salt Lake City, UT">Great Salt Lake city</placeName>, and fifty miles from <placeName type="settlement" key="Cedar City, UT" reg="Cedar City, UT">Cedar City</placeName>, the most southerly of the Mormon settlements in Utah,</seg> <seg type="Massacre" subtype="Battle">when they were attacked and all destroyed,</seg> <seg type="Massacre" subtype="Survivors">with the exception of fifteen young children, who were afterward bought from the Indians by the Mormons.</seg> What we know of this affair, <seg type="Massacre" subtype="Dates">which seems to have taken place about the 10th or 11th of September</seg>, <seg type="Source" subtype="WordofMouth">is derived from statements made by the <orgName type="religious" key="LDS" reg="Church of Jesus Christ of Later-day Saints">Mormons</orgName> as to what they had learned about it from the <orgName type="native" reg="Indians">Indians</orgName>, and from-the statements of another party of emigrants who had subsequently passed over the same route, having left <placeName type="settlement" key="Salt Lake City" reg="Salt Lake City">Salt Lake City</placeName> ten days later.&#8211;</seg></p>
+<p>Suspicion would seem, however, to rest rather upon the extremely bad state of feeling which prevails between the Mormons and emigrants through their country&#8211;and which, in the case of this particular train, would seem to have been especially bitter-than upon any facts positively known.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

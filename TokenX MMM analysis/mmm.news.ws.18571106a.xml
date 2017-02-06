@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="mmm.xsl" type="text/xsl"?><!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "mmm.dtd" [
+
+]>
+<TEI.2 id="mmm.news.ws.18571106a.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mountain Meadows Massacre</title>
+<title level="m" type="sub"></title>
+<author></author>
+<respStmt>
+<resp>Project Director</resp>
+<name>Douglas Seefeldt</name>
+</respStmt>
+<respStmt>
+<resp>Project Team</resp>
+<name>Tonia Compton</name>
+<name>Leslie Working</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition><date>2006</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>mmm.news.ws.18571106a.xml</idno><authority>"Rumored Massacre on the Plains:" The Mountain Meadows Massacre in Public Discourse</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2005 by University of Nebraska, all rights reserved.
+Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, University of Nebraska.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title level="m">Western Standard</title>
+<author>George Q. Cannon</author>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Western Standard</publisher>
+<pubPlace>San Francisco, CA</pubPlace>
+<date>1857-11-06</date>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="culpability">
+<term> </term>
+</keywords>
+<keywords n="sympathy">
+<term>LDS</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-05-11</date>
+<respStmt>
+<name>Douglas Seefeldt</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2006-03-02</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+
+<change>
+<date>2004-01-01</date>
+<respStmt>
+<name>Will Bagley</name>
+</respStmt>
+<item>Original transcription</item>
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<head>Killing of Immigrants&#8211;Mormons falsely Accused&#8211;Further Endurance no longer a Virtue.&#8212;</head>
+<div1 type="Newspaper article">
+<p>
+</p>
+
+	<p>AFTER this, we presume, there will not be a white man killed, or an emigrant train attacked between the Sierra Nevada and the Western or Southern States, on any route, at what will be credited to the Mormon. They may be as innocent as angels, but that will make no difference; the determination is apparent to heap upon them the odium of every such deed. The published estimate of one man, Abbot, which has obtained considerable circulation lately, is, that the Mormons and Indians have killed five hundred immigrants on the road between Salt Lake and California during this year alone. Trains have been attacked by Indians led on by white men, and the white men were, of course, concluded to be Mormons. One statement says, that they were known to be Mormons, because they swore. The statement made by Mr. Hones, who came by way of the Southern Utah route, via San Bernardino, and whose testimony is adduced as evidence that the Mormons were the instigators, if not the perpetrators of the massacre at Mountain Meadows&#8211goes to prove that the Mormons were distinguished from the Gentiles, by the Indians on that route, by their not swearing. This person says that the Mormon interpreters urged them to refrain from swearing, as the Indians would know that they were not Mormons, if they did not take this precaution. The swearing, therefore, of those white men who were among the Indians on the Northern route, is not an evidence that they were Mormons, but rather that they were Gentiles; moreover, it is preposterous to suppose that, if they were Mormons, they would let expressions drop, such as we see reported that immigrants have heard, which would lead those whom they attacked to recognize them as Mormons. If they were Mormons disguised as Indians, and they considered such disguise necessary for the concealment of their identity, they would be very sure to let nothing escape them that would cause suspicion to fall upon them; but if they were rascals who wished suspicion to be diverted from themselves and to fall upon the Mormons, it is quite reasonable to suppose that they would disguise themselves as Indians, and also be sure to let some expression fall from them that would lead those whom they assailed and whose minds were already filled with suspicion and fear about the people of Utah, to suppose that the Mormons were leading on and instigating the Indians to plunder and murder them.</p>
+
+	<p>The course that editors and others in California have taken in their treatment of the Mormons, has given all the encouragement needed to scoundrels of every grade to rob, murder and attack trains with impunity between here and Salt Lake. They have seen the disposition which is every where manifest to charge the Mormons with the commission of every conceivable crime, and have had every opportunity of knowing that all that is necessary to escape detection is to arrange their plundering schemes in such a manner that suspicion will fall on that people. Let the story be started that the Mormons have had a hand in any wickedness, and there is an end to investigation. A question is never asked about the rebutting testimony; it is enough to know that the Mormons are the accused party, and it is at once concluded that, of course, the allegations must be true. Every penny-a-liner in the country then immediately begins to threaten and pile abuse on to the Mormons, and has any number of suggestions to make for their extermination.</p>
+
+	<p>This is literally the truth, and it must be familiar to every reader of public journals in California. We have had an illustration of it before us this past week or two in the reports that have obtained circulation relative to the massacre of the company of emigrants at the rim of the Great Basin, or Mountain Meadows. No sooner was it known that a massacre had taken place, than it was charged to the Mormons. Innocent or guilty, it made not a particle of difference, they had to bear the onus of the butchery. With such a state of feeling&#8211;such a pre-disposition to saddle them with the bloody deed whether or no, testimony of a damning character was not long wanting to fully confirm all that they had been charged with. Could it not have been found on earth, the lower regions would have been raked to obtain it.</p>
+
+	<p>But it was found, and the thousand-tongued press heralded it forth. Every circumstance, however trivial; every word, however idly spoken; every look, however innocently given, was misconstrued, and a list of charges based upon them against the people of Deseret which find a place in the columns of every newspaper, and are industriously blazoned throughout the civilized world. What if they should prove to be baseless and utterly false, who cares? they are only Mormons that will suffer. It is not worth while to make and inquiry relative to any rebuttal that may be offered of charges against them; if they were successfully rebutted, the refutation would not attract notice. Is not this the idea indulged in, we ask? Examine the case in point. Sift the evidence that these charges are based upon. It is said that the Mormons killed or caused this train to be killed, because they were from Arkansas and Parley P. Pratt was murdered in Arkansas. It is said that the train was blotted out because they had property, and the Mormons coveted it. It is said that they were Gentiles, and that the Mormons had said they would be the means of killing every Gentile&#8211;of cutting off every train.</p>
+
+	<p>Who are the witnesses that testify that the Mormons committed this bloody deed, or were the instigators of it? Are they not Gentiles? Did not the majority of them come from Arkansas? Had they no property/ If any one or all of these motives prompted the Mormons to kill off or to instigate the extirpation of the train alluded to, how happened it, in the name of all that is just, that those parties escaped, who are now cited as witnesses and who followed on the trail of the murdered train?&#8211;How happened it that they were assisted by the Mormons, escorted into their fort when attacked by Indians, protected and guided by them through the exasperated red men; when to all their other motives for murder was added the additional one of concealment? Had they killed or caused to be killed the first train for the motives assigned, who would think, if they would reflect upon it for a moment, that they would let others equally as objectionable pass by unmolested, especially when they knew that they would not fail to charge them with the slaughter? But the enlightened press (?) do not condescend to notice these things. It would be treating the Mormons like white men&#8211;like freemen, equally entitled with themselves to all the rights of American citizens.</p>
+
+	<p>In one corner of the paper in which these accusatory statements were published (the Los Angeles Star,) we perceived a little notice which stated that the editor had received from Mr. J. Ward Christian of San Bernardino, a long statement of the late attack, by the Indians, on the emigrant train on the Salt Lake road, differing materially from that which he had already published; and, perhaps, he would insert it in his next issue. Scarcely a paper that has published all the statements from which this materially differed, has noticed the existence of such a statement. Coming from San Bernardino, it must be justificatory of the Mormons, and, therefore, must be ignored.&#8211;Every other accused party may have the benefit of a doubt; but a Mormon&#8211;Never. They are fearful that the unfavorable impressions which they wish made on the public mind in respect to the Mormons, should be weakened; therefore, every statement that would increase the hatred of the masses against "Mormonism" and the Mormons, has been carefully published, and duly compiled in the summary of news sent on the steamer to the East; but the exculpatory evidence is not once alluded to.&#8211;This was the course the pursued with the Drummond slanders, until their author's character was so completely exposed that he was a stench in the nose of every virtuous man. And when the time arrives, as it most assuredly will, that the utter falsity of those charges will also be made apparent, the exposure will be quietly hushed up and no more be said about it than can possibly be helped.</p>
+
+	<p>Our contemporaries think that a crisis is approaching. In this we agree with them. It is time that there should be a change of some kind; we care but little what it may be. With the Lord to uphold the cause of the just, it can not be any worse than it has been. For ourself we are sick and weary of enduring such treatment as we, in common with our co-religionists, have endured for years past. We have borne the yoke so long that our patience is nearly exhausted. This continual abuse and piling on of false charges&#8211;this eternal whine about Mormon treason, Mormon aggressions, Mormon licentiousness, with these oft-repeated threats of whipping us into an abjuration of our principles and of exterminating us, we are tired of hearing. We know that the Mormons in Deseret are an industrious, peaceable, God-fearing people, and that they have been most foully abused and vilified. All they have asked or now ask, is justice; all they desire is their guaranteed rights. These they never have had; but we, as one individual whose interests are wholly identified with theirs, feel that the time has arrived when it is but right that they be demanded, and if needs be, contended for.</p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

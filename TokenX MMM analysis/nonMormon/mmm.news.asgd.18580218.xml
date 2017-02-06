@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="mmm.xsl" type="text/xsl"?><!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "mmm.dtd" [
+
+]>
+<TEI.2 id="mmm.news.asgd.18580218.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mountain Meadows Massacre</title>
+<title level="m" type="sub"></title>
+<author></author>
+<respStmt>
+<resp>Project Director</resp>
+<name>Douglas Seefeldt</name>
+</respStmt>
+<respStmt>
+<resp>Project Team</resp>
+<name>Tonia Compton</name>
+<name>Leslie Working</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition><date>2006</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>mmm.news.asgd.18580218.xml</idno><authority>"Rumored Massacre on the Plains:" The Mountain Meadows Massacre in Public Discourse</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2005 by University of Nebraska, all rights reserved.
+Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, University of Nebraska.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title level="m">Arkansas State Gazette and Democrat</title>
+<author>Editors</author>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Arkansas State Gazette and Democrat</publisher>
+<pubPlace>AR</pubPlace>
+<date>1858-02-18</date>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="culpability">
+<term>Mormon and Indian</term>
+</keywords>
+<keywords n="sympathy">
+<term>Emigrants</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-05-07</date>
+<respStmt>
+<name>Douglas Seefeldt</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2006-03-02</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+
+<change>
+<date>2004-01-01</date>
+<respStmt>
+<name>Will Bagley</name>
+</respStmt>
+<item>Original transcription</item>
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1 type="Newspaper article">
+
+<head>Extract from a letter &#91;from&#93; Carroll Co.</head>
+
+
+<dateline><placeName type="county" key="Carroll County, AR" reg="Carroll County, AR">CARROLL CO.</placeName>, <date value="1858-01-05">Jan. 5 1858.</date></dateline>
+
+<p>We have had a beautiful Christmas and New Year, and I think will have a warm winter. <seg type="Source" subtype="UnattributedPublishedAccount">We have rather melancholy news from the Plains. Some of our best citizens murdered&#8212;at least supposed to be. <seg type="Massacre" subtype="Casualties"><persName reg="Baker, John T.">Mr. Jno. T. Baker</persName>, <persName reg="Baker, George W.">son</persName> and <persName reg="Mitchell, Sarah C. Baker">daughter</persName>, and son&#8211;in&#8211;law; <persName reg="Mitchell, Charles R.">C. R. Mitchell</persName>, <persName reg="Mitchell, Joel D.">Joel Mitchell</persName>, sons of <persName reg="Mitchell, William C.">Gen. Wm. C. Mitchell</persName>; with several others known to be with the train</seg>. We get this news from a California paper, which states that the company was headed by a man familiarly known as <persName reg="Baker, John T.">&#34;Uncle Jack of <placeName type="settlement" key="Crooked Creek" reg="Carroll County, AR">Crooked Creek, Carroll co., Ark</placeName>.&#34;</persName></seg>  If this be true, we have lost some of our best citizens, as Mr. Baker was one of that class. He was a warm friend and a bitter enemy; was possessed of good property, land, negroes, &amp;c. <seg type="Emigrants" subtype="Wagon Train">He started with a drove of cattle, intending to return and move to California, if he liked the country; he leaves a wife and several children in this county</seg>. <seg type="Reaction" subtype="Anti-MormonAction"><seg type="Reaction" subtype="FederalInvestigation"><seg type="Blame" subtype="LDS"><seg type="Blame" subtype="IndiansLDSInfluence">What will the Government do with these Mormons and Indians&#63; Will it not send out enough men to hang all the scoundrels and thieves at once, and give them the same play they give our women and children&#63;</seg></seg></seg></seg></p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

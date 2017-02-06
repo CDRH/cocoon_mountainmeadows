@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <doc>
+      <field name="id">mmm.news.bc.18580403</field>
+      <field name="itemCategory">newspaper</field>
+      <field name="titleMain">Untitled [A communication from the Secretary of war…]</field>
+      <field name="author"/>
+      <field name="dateSearch">1858-04-03</field>
+      <field name="dateDisp">April 3, 1858</field>
+      <field name="place">Boston, MA</field>
+      <field name="state">Boston, MA</field>
+      <field name="source">Boston Cultivator</field>
+      <field name="text">
+        
+        
+        
+            
+            
+                
+                
+                
+                A communication from the Secretary of War was received, saying that the department has no information respecting the massacre of emigrants at MedowMeadow mountain, Utah, and consequently has taken no steps to punish the offenders.
+                
+            
+        
+     </field>
+   </doc>
+</add>

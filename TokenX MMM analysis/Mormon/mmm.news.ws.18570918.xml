@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="mmm.xsl" type="text/xsl"?><!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (UNL Etext Center)//EN" "mmm.dtd" [
+
+]>
+<TEI.2 id="mmm.news.ws.18570918.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mountain Meadows Massacre</title>
+<title level="m" type="sub"></title>
+<author></author>
+<respStmt>
+<resp>Project Director</resp>
+<name>Douglas Seefeldt</name>
+</respStmt>
+<respStmt>
+<resp>Project Team</resp>
+<name>Tonia Compton</name>
+<name>Leslie Working</name>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition><date>2006</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>mmm.news.ws.18570918.xml</idno><authority>"Rumored Massacre on the Plains:" The Mountain Meadows Massacre in Public Discourse</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2005 by University of Nebraska, all rights reserved.
+Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, University of Nebraska.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title level="m">Western Standard</title>
+<author>George Q. Cannon</author>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Western Standard</publisher>
+<pubPlace>San Francisco, CA</pubPlace>
+<date>1857-09-18</date>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="culpability">
+<term> </term>
+</keywords>
+<keywords n="sympathy">
+<term>LDS</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change>
+<date>2007-05-11</date>
+<respStmt>
+<name>Douglas Seefeldt</name>
+</respStmt>
+<item>Initial Encoding</item>
+</change>
+<change>
+<date>2006-03-02</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Model Encoding</item>
+</change>
+
+<change>
+<date>2007-05-09</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Original transcription</item>
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<head>Freedom or Slavery&#821;Which is Preferable?&#8212;
+</head>
+<div1 type="Newspaper article">
+<p>
+</p>
+
+	<p>RUMORS have obtained circulation within the last few days in Sacramento and this city that Gen. Harney and 2,500 troops, while on their journey to Great Salt Lake City, had been met and driven back, with a loss of 600 men. The rumor is so utterly baseless, and the impossibility of such a collision taking place is so easily perceived, that it has been universally discredited. Yet it has had the effect to draw forth several leaders from the pens of our contemporaries, and among the rest a very long and malignant one from the editor of the S.F. Herald. In his article on this subject this editor attempts to foreshadow the policy of the Administration, and the plan of action which has been decided upon by the new Governor and the myrmidous who accompany him on his way to Utah. If he really does reflect the policy to be pursued towards the people of Utah&#8211;and after making every deduction for his known rancor and spite we still have enough left to make us think that to some extent he does&#8211;the army now on their way to that Territory, is but little, if any, better than a mob, organized under pretence of law. We had hoped, notwithstanding the suspicious appearance of this movement and our knowledge that it was entirely uncalled for, that a liberal, high- minded policy would be pursued in the selection of a suitable man for Governor and in the instructions given the troops. But, if the editor of the Herald may be relied upon, the contrary is the case, and the Administration has suffered its power to be converted to the carrying out of the nefarious schemes of corrupt and designing men.</p>
+
+	<p>It is with the express and avowed purpose of waging a deathless warfare against "Mormonism"&#8211;the influence of Governor Young, and the union which pervades the society of Utah, that the new Governor and troops are going there.</p>
+
+	<p>"Governor Cumming," says this writer, "is charged with the duty of checking and finally overthrowing the detestable practices that prevail in Utah, and on which are balanced Mormonism and Young's power."</p>
+
+<p>This sentence condenses the whole policy in a nutshell. Every feature which distinguishes "Mormonism" from the cursed and effete systems of the day, is to be obliterated. The virtuous practices of its believers, which in the opinion of this moral editor, are "detestable," are to be "checked and finally overthrown." If resistance be offered, and the people of Utah should not submit to the inauguration of the Christian (?) practices of unlimited, licensed whoredom and adultery in the stead of the ancient, heaven-approving, bible-sustaining practice of polygamy, then the cannon and the bayonet are to be used as irresistible arguments in Christianizing, (?) civilizing, (?) and, if they persist in their resistance, victimizing the "Mormons!"</p>
+
+	<p>"Brigham is to be stripped of temporal authority, and all his actions are to be unremittingly watched by experienced, determined and vigilant officials, backed by an armed force, in point of numbers and equipment sufficient to stifle at its birth any exhibition of insubordination to the laws."</p>
+
+	<p>[The filthy and worse than beastly laws of whoredom and seduction, so commonly and notoriously practiced by Uncle Sam's officers, are the laws, we presume, here referred to, as they are the only laws to which the "Mormons" have manifested insubordination.]</p>
+
+	<p>"The Mormons may smother their feelings and make pretensions of submission to the new order of things; but such professions will not disarm the resolution of the administration to reduce the horrible state of affairs in Utah to some sort of decency." * * * * * *
+	"The contingency of Young's submission has been foreseen, and such a course on his part can not in any measure divert or change the policy resolved upon at Washington towards Utah." * *
+	"The incoming of the new regime will be the entering wedge towards casting down the institution of polygamy." * * * *
+	"Justice, [this in Mormon or freemen's parlance would be called in-justice] as it is hereafter to be administered, can not fail to bring about collisions between the Church and the officers of the law." * *
+	"The condition of affairs at Salt Lake can no longer be tolerated, and if the dictates of self-interest, and only a scintilla of common sense obtain in Mormon councils, they will acquiesce in the judgment of Christendom, that it is time their distinctive dogmas should be abandoned."</p>
+
+	<p>From the above extracts our readers will readily perceive what the new officials with the mercenaries which accompany them, are expected to accomplish. Let every man ponder upon the sentiments they contain. Is not the plan of operations here laid bare, one of the most hellish ever concocted for the destruction any people? "Brigham is to be stripped of temporal authority;" but this is not sufficient: he must be unremittingly watched by vigilant officials, backed by an armed force sufficiently large to stifle any resistance that might be offered to such a proceeding. This coincides with the rumor which has reached us, that the troops now on their way to Utah boastingly and gleefully exhibit the ropes with which they intend to hang Governor Young and the leading "Mormons" when they reach Great Salt Lake City. Whether Governor Young be innocent or guilty, makes no difference; he must not be tried. Oh, no; it would not do to try him! That would be republican justice, and if it were administered, it would fail to bring about a collision between the Church and the troops. He must be unremittingly watched by vigilant spies wearing the garb of U.S. officials. And though he may have the disposition to receive his successor and his body-guard of hangmen peaceably, yet, it will pass for naught&#8211;his case is prejudged&#8211;the contingency of his and the "Mormons" submission has been foreseen, and all their professions are bound to fail in diverting or changing the policy resolved upon at Washington towards Utah, or in disarming the administration of its design to reduce the state of affairs there to some sort of decency&#8211;that is, to introduce the Sodomic practices so much in vogue on the banks of the Potomac: drinking, gambling, whoredom, seduction, adultery and murder, without which a state of society, according to the editor of the Herald's ideas, is horrible.</p>
+
+	<p>"The incoming of the new regime will be the entering wedge towards casting down the institution of polygamy." This remark is tantamount to a confession that this institution is too impregnably fortified by scripture and reason for any cogent arguments, or moral suasion to be brought to bear against it; and, therefore, resort must be had to brute force&#8211;artillery, cavalry and infantry! The word now is, that "Mormonism" and death. If a stubborn adherence be exhibited, blood must be shed; for, says the editor of the Herald, (and who would doubt his authority?) it is now time that our distinctive dogmas should be abandoned&#8211;self-interest demands it&#8211;common sense demands it&#8211;Christendom demands it, and the character of the country demands it! How dare the Mormons, then, think of demurring, and lost sight so far of their self-interest as not to travel in the broad road with the crowd? Could they see with the eyes of the editor of the Herald, they would never object. They would welcome the morality (?) which would give full scope to the passions&#821;throw open the marriage bed to the defiler&#8211;prostitute the sisters and daughters&#8211;poison the very fountains of existence, and give unbridled license to every species of corruption that would sow the seeds of disease and death broadcast through their land. But they do not see the propriety of receiving and permitting the practice of such a system of morality, though it be supported by the new Governor and his troops, and the judgment of Christendom. "Mormons" have from the very first been very blind to what the world call their self-interest. The first step they took in "Mormonism" called for the sacrifice of self-interest; and self-interest has been immolated on the altar of duty to God from that day to this.</p>
+
+	<p>They have also been peculiarly tenacious of their right to worship God according to the dictates of their own consciences. They were so when they were but a handful, and they are no less so now. No six nor six hundred U.S. officials, though backed by ferocious Gen. Harney and his 2,500 or 3,000 troops, or by the whole regular army of our revered Uncle Same, will be able to force them to relinquish their heaven-born right of practicing the precepts of their religion according to the revelations of God and the constitution of their fathers. They will not be dictated to in these matters by others, be they few or many. It is a right, for the correct exercise of which they are accountable to God and to Him alone; and cursed be the man that would deprive them of it. How indicative it is of the degeneracy of the age, and the absence of the spirit of liberty, when an editor can unblushingly and publicly declare in these free States that the ay has come when the inhabitants of a U.S. Territory can no longer have the right to enjoy liberty of conscience&#8211;to declare that 100,000 freemen must frame their creed and practice their religion according to the ideas of half-a-dozen politicians, who by hook or by crook have contrived to get appointed to the Federal offices in that Territory, or be visited by the full weight of the resources of the General Government! Such an indignity was never offered to the Thirteen Colonies by the tyrannical ministers of the third George. For less than this, and other indignities and wrongs which we have endured, the colonists declared themselves free and independent, and broke the yoke which the tyrants sought to impose upon them; and shall freemen&#8211;men reared under the shade of the tree of liberty, sons of those revolters against oppression, and in whose breasts the spirit of freedom was born, "grown with their growth and strengthened with their strength"&#8211;do less?</p>
+
+	<p>If the policy foreshadowed by the editor of the Herald in the article to which we have alluded, be the policy to be practiced by the new officials on their arrival in Utah&#8211;and upon the supposition that it is we make our remarks&#8211;we, as one individual, one believer in "Mormonism," one who knows and appreciates the sweets of liberty, say NO! Not while we breathe the free air of our Creator&#8211;not while the heavens shine above us, and the earth remains beneath our feet, will we ever submit to it. In this we speak for ourself&#8211;not for the people of Utah. We have plead, humbly and imploringly plead, in common with our brethren, for peace. We have diligently sought and labored for the salvation of the children of men. We have not encroached on the rights or privileges of any; but we have been encroached upon. We have submitted to it. Not once or twice, but repeatedly. When smoke on one cheek, we have turned again and again the other to the smiter. To escape from this oppression we were willing to exile ourselves in a far-off wilderness&#8211;a country so sterile and repelling that no other people would occupy it; but have we been permitted to dwell there unmolested? We were while there were crickets to fight&#8211;while starvation and want stared us in the face, and the prospect was promising of our having to succumb to them. But no sooner had we reared comfortable homes, demonstrated that the country was inhabitable, and surrounded ourselves with the appliances of civilized life and comparative wealth, than the old system of oppression was re-commenced; and at last, the unceasing efforts of our oppressors have succeed in persuading the Administration to lend itself to the scheme of crushing out a people who have ever been loyal subjects, and who have done more during the last ten years towards developing the resources of the country and adding to the conveniences of traveling than any other community of thrice its size!</p>
+
+	<p>The determination evidently is that we shall renounce our so-called errors, or be exterminated. The word extermination is not used in the article above referred to&#8211;though it has been used time and again in other articles on this subject&#8211;but accepting the language used at its standard meaning, it is as plain as a pikestaff that this is the result which we may expect, if the policy adopted can be successfully carried out and Harney's troops do not all desert him before he reaches Utah. If rumor may be relied on, and we have it from accredited sources, they have commenced putting their plan of operations into effect on the plains&#8211;pressing Mormon emigrants into their service, oppressing the men and abusing and practicing their devilish arts upon the women. What the result will be we can not precisely say; but as sure as the Lord lives, such high-handed outrages will not go unpunished. We do not know what steps the people of Utah will take in the matter; we know, however, that they will act prudently, wisely, and righteously, and do all in their power to prevent a collision. (In fact, we have been informed that the people of Utah, instead of aiding the deserters from Harney's command in their escape, have arrested two, and intend holding them in custody until he arrives.) But if the collision be forced upon them&#8211;if the determination be to compel them to cease the practice of their religion&#8211;to deprive them of their rights and privileges as freemen&#8211;to make them slaves in fact&#8211;then we, were we in Utah, would say, Let it come; with God to defend the right, we will risk the consequences. We would say, Let the rugged defiles of the Rocky Mountains become a second Thermopyl&#230; where the sons of illustrious sires will contend of the precious rights bought by the blood of their fathers and bequeathed to them as the most inestimable boon they could bestow. We would say, That rather than part with our religion, we, with God's assistance, will part with life; rather than live a slave&#8211;to fawn and cringe and bend the knee at another's beck&#8211;to endure the slavery of the mind, a slavery far more ignoble and debasing than the slavery of the body, we will die, nobly contending for the God-given right of freedom of conscience. Better far do this, than tamely stand by and be robbed of our dearest rights or suffer extermination; for if we should fall, others might live, and be victorious, and our children could then enjoy what we had contended for. These are our feelings to-day, and we pray God they may ever be; we wish no other. We boldly avow them, confident that they will meet the approval of every friend of justice and liberty.</p>
+
+	<p>As for the disrupture, the overthrow or the crushing out of "Mormonism," such an even need not be looked for nor thought of; neither need there be any speculations indulge in relative to the extermination of its believers. The editor of the Herald deceives himself and those who believe what he writes, when he says that "the days of Mormonism at Salt Lake are numbered." The cannon are not cat, the muskets or rifles not made, the powder and ball not manufactured, nor the men to use them either born or conceived, that will destroy "Mormonism." Mark our words, gentlemen, it will live, though all earth and hell array themselves against it.</p>
+
+</div1>
+</body>
+</text>
+</TEI.2>
