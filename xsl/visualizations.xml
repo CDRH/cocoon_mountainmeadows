@@ -3,30 +3,24 @@
 <body>
 <h2>Visualizations</h2>
 
-    <div class="visualizationsCol">
-<p>
-Digital technology provides valuable tools for the analysis of historical data, making documents accessible to a wider audience and opening the texts up to new interpretations and new uses. In the Mountain Meadows Massacre digital archive we have employed several technologies to create visualizations that add to the uses of the collection. 
-</p>
+<div class="visualizationsCol">
+  <p>
+  Digital technology provides valuable tools for the analysis of historical data, making documents accessible to a wider audience and opening the texts up to new interpretations and new uses. In the Mountain Meadows Massacre digital archive we have employed several technologies to create visualizations that add to the uses of the collection. 
+  </p>
 
-<p>
-When items are added to the archive, page images are scanned, the text is transcribed, and significant textual elements are “marked up” in eXtensible Markup Language to allow for sorting and browsing. Each document is also encoded with selected narrative elements, which can be displayed at the user's request. This “concept highlighting” gives users the ability to follow themes through the documents, but also enables the “narrative map” visualization, which compares the frequency of selected segments across the archive and over time.
-</p>
+  <p>
+  When items are added to the archive, page images are scanned, the text is transcribed, and significant textual elements are “marked up” in eXtensible Markup Language to allow for sorting and browsing. Each document is also encoded with selected narrative elements, which can be displayed at the user's request. This “concept highlighting” gives users the ability to follow themes through the documents, but also enables the “narrative map” visualization, which compares the frequency of selected segments across the archive and over time.
+  </p>
 
-<p>
-Text-analysis software TokenX, developed at the University of Nebraska's Center for Digital Research in the Humanities, generates word-frequency lists and “word clouds” to illustrate language usage and word significance within texts. Word cloud visualizations give users another way to enter the archive; they can mouse over a word to see its frequency and are then given the option to link to the word in context within individual texts. 
-</p>
-
-<!--<p>
-In another visualization, newspaper articles are situated on a timeline using MIT’s SIMILE software. This timeline illustrates the distribution of news coverage of the Mountain Meadows Massacre and its aftermath over time, and creates a sense of the movement of information in 19th-century America. This feature also serves as a user-directed entrance into the documents through links within each timeline entry.
-</p>-->
-        
-        </div>
+  <p>
+  Text-analysis software TokenX, developed at the University of Nebraska's Center for Digital Research in the Humanities, generates word-frequency lists and “word clouds” to illustrate language usage and word significance within texts. Word cloud visualizations give users another way to enter the archive; they can mouse over a word to see its frequency and are then given the option to link to the word in context within individual texts. 
+  </p>
+</div>
 
 <div class="menuSide">
-<h3><a href="http://mountainmeadows.unl.edu/visualizations/wordclouds/index.html">Word Clouds</a></h3>
-<!--<h3><a href="http://mountainmeadows.unl.edu/visualizations/timelines/index.html">Timeline</a></h3>-->
-<h3><a href="http://mountainmeadows.unl.edu/visualizations/narrativemap/index.html">Narrative Map</a></h3>
-
+  <h3><a href="http://mountainmeadows.unl.edu/visualizations/wordclouds/index.html">Word Clouds</a></h3>
+  <!--<h3><a href="http://mountainmeadows.unl.edu/visualizations/timelines/index.html">Timeline</a></h3>-->
+  <h3><a href="http://mountainmeadows.unl.edu/visualizations/narrativemap/index.html">Narrative Map</a></h3>
 </div>
 
 </body>
