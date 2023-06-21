@@ -36,16 +36,16 @@
 	</script>
 	
 	<link rel="stylesheet" href="{$siteroot}js/prettyPhoto_compressed_3.1.3/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
-	<script async="true" src="https://www.googletagmanager.com/gtag/js?id=G-2V9RJZHY17"></script>
-	
-<script type="text/javascript">
-		
-		  window.dataLayer = window.dataLayer || [];
-  	      function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
 
-          gtag('config', 'G-2V9RJZHY17');
+
+	<!-- Google tag (gtag.js) -->
+	<script async="true" src="https://www.googletagmanager.com/gtag/js?id=G-2V9RJZHY17">&#160;</script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
 		
+		gtag('config', 'G-2V9RJZHY17');
 	</script>
 
 
