@@ -11,7 +11,7 @@
 	<xsl:include href="../config/config.xsl"/>
 	
   <xsl:template match="/">
-  <html xmlns="http://www.w3.org/1999/xhtml" class="{$pagetype}">
+  <html xmlns="http://www.w3.org/1999/xhtml" class="{$pagetype}" lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
