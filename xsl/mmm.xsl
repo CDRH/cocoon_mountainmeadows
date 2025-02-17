@@ -14,7 +14,7 @@
 
     <xsl:output method="html" encoding="utf-8" indent="yes"/>
     <xsl:template match="tei:*[not(parent::*)]"> 
-        <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+        <html>
             <head>
                 <title><xsl:value-of select="//tei:sourceDesc/tei:bibl/tei:title[@level = 'a']"
                         />&#8212;<xsl:value-of

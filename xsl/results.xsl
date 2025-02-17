@@ -9,7 +9,7 @@
     <xsl:template match="/">
         
         
-        <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+        <html>
             <body>
                 <h2>Search Results</h2>
                 

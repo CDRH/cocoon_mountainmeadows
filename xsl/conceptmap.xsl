@@ -98,7 +98,7 @@
     <xsl:template match="/">
 
       <xsl:variable name="document" select="." />
-      <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+      <html>
       <body>
         <h2>Narrative Map</h2>        
           <p>Note: This concept map is a prototype and contains only a sampling of data. </p>
