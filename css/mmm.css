@@ -10,7 +10,7 @@ body {
 	text-align: center;
 }
 
-div#mainBody {
+.body-wrapper {
 	width: 797px;
 	padding-right: 12px;
 	padding-left: 12px;
@@ -74,7 +74,7 @@ ul.mainMenu a:hover {
 	text-decoration: underline;
 }
 
-div.footer {
+.footer {
 	background: url(../web-images/images/bottom_bg.jpg) top left no-repeat #0f0604;
 	height: 300px;
 	clear: both;
@@ -117,11 +117,11 @@ ul.projectMenu a:hover {
 	color: #bfa8a3;
 }
 
-div.content img {
+.content img {
 	display: block;
 }
 
-div.bodyContent {
+.bodyContent {
 	background: url(../web-images/content_bg.jpg) top left no-repeat #e2caa8;
 	color: #100805;
 	padding: 20px 25px 60px 25px;
@@ -129,7 +129,7 @@ div.bodyContent {
 	overflow: auto;
 }
 
-div.bodyContent h2 {
+.bodyContent h2 {
 	margin: 10px 0px 15px 0px;
 	color: #2f2827;
 	font-size: 1.6em;
@@ -137,30 +137,30 @@ div.bodyContent h2 {
 	font-weight: 900;
 }
 
-div.bodyContent h3 {
+.bodyContent h3 {
 	margin: 20px 0px 0px 0px;
 	font-weight: bold;
 	font-size: 1.3em;
 	color: #2f2827;
 }
 
-div.bodyContent h4 {
+.bodyContent h4 {
 	margin: 10px 0px 0px 0px;
 	font-weight: bold;
 	font-size: 1em;
 	color: #2f2827;
 }
 
-div.bodyContent p{
+.bodyContent p{
 	line-height: 1.7em;
 	padding: 5px 0px 5px 0px;
 }
 
-div.bodyContent{
+.bodyContent{
 	line-height: 1.7em;
 }
 
-div.bodyContent em {
+.bodyContent em {
 	font-style: italic;
 }
 
@@ -168,11 +168,11 @@ div.bodyContent em {
 	line-height: 1.2em;
 }
 
-div.bodyContent strong {
+.bodyContent strong {
 	font-weight: bold;
 }
 
-div.bodyContent blockquote {
+.bodyContent blockquote {
 	margin: 10px 20px 10px 20px;
 	padding: 10px 15px 15px 15px;
 }
@@ -212,7 +212,7 @@ table td.source {
 	width: 15em;
 }
 
-div.twoCol {
+.twoCol {
 	margin-top: 10px;
 }
 
@@ -221,29 +221,29 @@ div.twoCol {
 	float: right;
 }
 
-div.menuSide {
+.menuSide {
 	width: 180px;
 	float: left;
 	padding-top: 0px;
 }
 
-div.twoCol div.menuSide {
+.twoCol .menuSide {
 	width: 180px;
 	float: left;
 	padding-top: 0px;
 }
 
-div.twoCol div.menuSide strong {
+.twoCol .menuSide strong {
 	color: #333333;
 }
 
-div.twoCol div.menuSide h4 {
+.twoCol .menuSide h4 {
 	padding-bottom: 0px;
 	padding-top: 0;
 	margin-top: 0;
 }
 
-div.twoCol div.menuSide li {
+.twoCol .menuSide li {
 	margin-bottom: 4px;
 	padding: 4px;
 	padding-left: 6px;
@@ -252,7 +252,7 @@ div.twoCol div.menuSide li {
 	cursor: default;
 }
 
-div.twoCol div.menuSide p {
+.twoCol .menuSide p {
 	margin-bottom: 4px;
 	padding: 4px;
 	padding-left: 6px;
@@ -297,12 +297,12 @@ div.twoCol div.menuSide p {
 	display: block;
 }
 
-div.twoCol div.menuSide li.selected {
+.twoCol .menuSide li.selected {
 	background: #660000;
 	color: #e2caa8;
 }
 
-div.twoCol div.contentSide {
+.twoCol .contentSide {
 	padding-left: 195px;
 }
 
@@ -403,3 +403,67 @@ text-decoration: none;}
 	display: none;
 }
 
+/* /////////////////
+Accessibility Fixes
+///////////////// */
+
+/* Skip to main content link */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.sr-only-focusable:active, .sr-only-focusable:focus {
+  position: static;
+  width: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  clip: auto;
+}
+
+a.sr-only-focusable:hover, a.sr-only-focusable:focus {
+  color: #345c87;
+  text-decoration: underline;
+}
+
+.static-banner-wrapper {
+  background-color: #cce5f2;
+  border-bottom: 1px solid #226e95;
+}
+
+.static-banner {
+  margin: auto;
+  max-width: 100%; /* Change this to the width of the page content */
+  padding: 10px 12px;
+  text-align: left;
+	width: 797px;
+}
+
+.static-banner p {
+  color: black;
+  font-size: 12px; /* Change to fit site */
+  margin: 0;
+}
+
+.static-banner p a,
+.static-banner p a:visited {
+  color: #0000EE;
+  background: none;
+  margin: 0;
+  padding: 0;
+  text-decoration: underline;
+}
+
+.static-banner p a:hover {
+  background: none;
+  color: #010194;
+  margin: 0;
+  padding: 0;
+}
