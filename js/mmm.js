@@ -13,7 +13,7 @@
                       {
                       if (spans[i].getAttribute('title') == spanTitle)
                       { 
-                        spans[i].style.backgroundColor = "#CE8C27";
+                        spans[i].style.backgroundColor = "#D99A3A";
                         } 
                       }
 					  

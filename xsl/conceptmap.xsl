@@ -123,7 +123,7 @@
             </tr>
             
             
-            <xsl:for-each select="distinct-values($concepts/seg/@type)"><tr style="background: #2f2827; "><td colspan="5" ><h3 class="typeTitle" title="{.}" style="color: #ce8c27; font-weight: normal; font-size: 1.2em; margin: 0px; padding: 3px 0px 4px 0px;  text-decoration: underline"><xsl:value-of select="."/></h3></td></tr>
+            <xsl:for-each select="distinct-values($concepts/seg/@type)"><tr style="background: #2f2827; "><td colspan="5" ><h3 class="typeTitle" title="{.}" style="color: #D99A3A; font-weight: normal; font-size: 1.2em; margin: 0px; padding: 3px 0px 4px 0px;  text-decoration: underline"><xsl:value-of select="."/></h3></td></tr>
             <xsl:variable name="sec_type" select="."/>
                 
 

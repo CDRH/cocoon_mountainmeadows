@@ -62,11 +62,11 @@ div#titleBlock ul.mainMenu li {
 
 div#titleBlock ul.mainMenu li.selected {
 	background: #660000;
-	color: #CE8C27
+	color: #D99A3A
 }
 
 ul.mainMenu a:link, ul.mainMenu a:visited, ul.mainMenu a:hover {
-	color: #CE8C27;
+	color: #D99A3A;
 	text-decoration: none;
 }
 
@@ -311,7 +311,7 @@ table td.source {
 }
 
 .twoCol .contentSide {
-	padding-left: 195px;
+	padding-left:D99A3A;
 }
 
 p.error {
