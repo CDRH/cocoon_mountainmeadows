@@ -53,43 +53,60 @@
 
 <body>
 
-<div id="mainBody">
-
-	<div id="titleBlock">
-	<h1><span>&quot;Horrible Massacre of Emigrants!!&quot; The Mountain Meadows Massacre in Public Discourse</span></h1>
+    <header>
+     <a class="sr-only sr-only-focusable" href="#main_content">Skip to main content</a>
+     <div class="static-banner-wrapper">
+       <div class="static-banner">
+         <p>This version of the website was created in 2025. See the <a href="info.html">Site Information Page</a> for contact information, data downloads, and other details.</p>
+       </div>
+     </div>
+        <div class="body-wrapper">
+            <div id="titleBlock">
+            	<h1><span>&quot;Horrible Massacre of Emigrants!!&quot; The Mountain Meadows Massacre in Public Discourse</span></h1>
+            	
+            	<nav aria-label="Main Menu">
+                    <ul class="mainMenu">
+                		<li><a href="index.html" title="Project Home Page">Home</a></li>
+                		<li><a href="introduction.html" title="Project Overview">Overview</a></li>
+                		<li><xsl:if test="$section = 'archive'"><xsl:attribute name="class">selected</xsl:attribute></xsl:if>
+                		  <a href="archive/index.html" title="Archive of Sources">Archive</a></li>
+                		<li><xsl:if test="$section = 'visualizations'"><xsl:attribute name="class">selected</xsl:attribute></xsl:if>
+                		  <a href="visualizations/index.html" title="Visualizations">Visualizations</a></li>
+                		<!--<li><xsl:if test="$section = 'browse'"><xsl:attribute name="class">selected</xsl:attribute></xsl:if>
+                		  <a href="browse/index.html" title="Browse source materials">Browse</a></li>-->
+                		<!--<li><xsl:if test="$section = 'search'"><xsl:attribute name="class">selected</xsl:attribute></xsl:if>
+                			<a href="search/index.html" title="Search source materials">Search</a></li>-->
+                	</ul>
+                </nav>
+            	
+            	<nav aria-label="Project Menu">
+                    <ul class="projectMenu">
+            		<li><a href="about.html" title="Learn about this project.">About the Project</a></li>
+            	</ul>
+                </nav>
+        	
+        	</div>
+        </div>
+    </header>
 	
-	<ul class="mainMenu">
-		<li><a href="index.html" title="Project Home Page">Home</a></li>
-		<li><a href="introduction.html" title="Project Overview">Overview</a></li>
-		<li><xsl:if test="$section = 'archive'"><xsl:attribute name="class">selected</xsl:attribute></xsl:if>
-		  <a href="archive/index.html" title="Archive of Sources">Archive</a></li>
-		<li><xsl:if test="$section = 'visualizations'"><xsl:attribute name="class">selected</xsl:attribute></xsl:if>
-		  <a href="visualizations/index.html" title="Visualizations">Visualizations</a></li>
-		<!--<li><xsl:if test="$section = 'browse'"><xsl:attribute name="class">selected</xsl:attribute></xsl:if>
-		  <a href="browse/index.html" title="Browse source materials">Browse</a></li>-->
-		<!--<li><xsl:if test="$section = 'search'"><xsl:attribute name="class">selected</xsl:attribute></xsl:if>
-			<a href="search/index.html" title="Search source materials">Search</a></li>-->
-	</ul>
+	<main>
+        <div class="body-wrapper">
+            <div class="bodyContent">
+        		<xsl:copy-of select="//body" />
+    	   </div>
+        </div>
+    </main>
 	
-	<ul class="projectMenu">
-		<li><a href="about.html" title="Learn about this project.">About the Project</a></li>
-		
-	</ul>
-	
-	</div>
-	
-	<div class="bodyContent">
-		<xsl:copy-of select="//body" />
-	</div>
-	
-	<div class="footer">
-	<p class="copyStmt">
-	&#169; 2007 University of Nebraska&#8211;Lincoln. Please send comments to <a href="mailto:cdrh@unl.edu" title="Contact the Center for Digital Research in the Humanities.">cdrh@unl.edu</a>.<br/>
-		<a href="http://www.unl.edu/" ><img src="web-images/unl.jpg" alt="University of Nebraska-Lincoln" /></a>
-	</p>
-	</div>
-
-</div>
+    <footer>
+        <div class="body-wrapper">
+        	<div class="footer">
+        	<p class="copyStmt">
+        	&#169; 2007 University of Nebraska&#8211;Lincoln. Please send comments to <a href="mailto:cdrh@unl.edu" title="Contact the Center for Digital Research in the Humanities.">cdrh@unl.edu</a>.<br/>
+        		<a href="http://www.unl.edu/" ><img src="web-images/unl.jpg" alt="University of Nebraska-Lincoln" /></a>
+        	</p>
+        	</div>
+        </div>
+    </footer>
 
 </body>
 </html>
