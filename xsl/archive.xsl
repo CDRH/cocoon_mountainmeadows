@@ -14,7 +14,7 @@
   <html>
   <body>
 
-  <h2>Archive</h2>
+  <h1>Archive</h1>
 
   <div class="scope">
 
@@ -48,7 +48,9 @@ In later phases of the project, fictional treatments of the Mountain Meadows Mas
 
 <div class="twoCol" id="doclist">
 <div class="menuSide">
-<h4>Document Type</h4>
+<h2 class="h4" id="document_type">Document Type</h2>
+<nav aria-labelledby="document_type">
+
   <ul class="{$pagetype}"> 
     
     
@@ -80,7 +82,8 @@ In later phases of the project, fictional treatments of the Mountain Meadows Mas
     
     
 </ul>  
-  </div>
+  </nav>
+</div>
   <div class="contentSide">
   <table>
     <tr><th>Date</th><th class="source">Source</th><th class="author">Author</th><th>Title</th></tr>

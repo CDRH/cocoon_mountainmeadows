@@ -138,8 +138,12 @@ ul.projectMenu a:hover {
 	font-weight: 900;
 }
 
+.bodyContent h2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
 .bodyContent h3,
-.bodyContent h2.h3 {
+.bodyContent .h3 {
 	margin: 20px 0px 0px 0px;
 	font-weight: bold;
 	font-size: 1.3em;
@@ -147,7 +151,7 @@ ul.projectMenu a:hover {
 }
 
 .bodyContent h4,
-.bodyContent h3.h4 {
+.bodyContent .h4 {
 	margin: 10px 0px 0px 0px;
 	font-weight: bold;
 	font-size: 1em;
@@ -240,7 +244,8 @@ table td.source {
 	color: #333333;
 }
 
-.twoCol .menuSide h4 {
+.twoCol .menuSide h4,
+.twoCol .menuSide .h4 {
 	padding-bottom: 0px;
 	padding-top: 0;
 	margin-top: 0;
