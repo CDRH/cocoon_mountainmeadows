@@ -40,7 +40,7 @@
 
                     <div class="menuSide">
 
-                        <h4>Source</h4>
+                        <h3>Source</h3>
                         <xsl:choose>
                             <xsl:when test="string(//tei:note[@type='source'])">
                                 <p><xsl:apply-templates select="//tei:note[@type='source']"/>
@@ -79,7 +79,7 @@
                         
                        
 
-                        <h4>Concepts</h4>
+                        <h3>Concepts</h3>
                         
                         <xsl:choose>
                             <xsl:when test="//tei:seg">
@@ -130,14 +130,14 @@
         
         <xsl:choose>
             <xsl:when test="@type='sub'">
-                <h3>
-                    <xsl:apply-templates/>
-                </h3>
-            </xsl:when>
-            <xsl:otherwise>
                 <h2>
                     <xsl:apply-templates/>
-                    <xsl:text>&#160;</xsl:text></h2>
+                </h2>
+            </xsl:when>
+            <xsl:otherwise>
+                <h1>
+                    <xsl:apply-templates/>
+                    <xsl:text>&#160;</xsl:text></h1>
             </xsl:otherwise>
         </xsl:choose>
         
@@ -151,9 +151,9 @@
     </xsl:template>
 
     <xsl:template match="tei:head[preceding::tei:div1]">
-        <h3>
+        <h2>
             <xsl:apply-templates/>
-        </h3>
+        </h2>
     </xsl:template>
 
     <xsl:template match="tei:opener">
@@ -310,7 +310,7 @@
                 <span class="hr">&#160;</span>
                 <span class="pageimage">
                     <a href="{$siteroot}figures/pages/fullsize/{@xml:id}.jpg" rel="prettyPhoto[pp_gal]">
-                        <img src="{$siteroot}figures/pages/thumbnails/{@xml:id}.jpg"/>
+                        <img src="{$siteroot}figures/pages/thumbnails/{@xml:id}.jpg" alt="Scanned image of "/>
                         <br/>
                         <xsl:if test="@n != 'unknown'">
                             [p. <xsl:value-of select="@n"></xsl:value-of>]</xsl:if>
