@@ -22,11 +22,11 @@ body {
 
 a:link, a:hover, a:visited {
 	text-decoration: underline;
-	color: #bd6f00
+	color: #603800;
 }
 
 a:visited {
-	color: #895000;
+	color: #603800;
 }
 
 a:hover {
