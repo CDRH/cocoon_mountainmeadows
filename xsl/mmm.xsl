@@ -40,7 +40,7 @@
 
                     <div class="menuSide">
 
-                        <h3>Source</h3>
+                        <h2 class="h4">Source</h2>
                         <xsl:choose>
                             <xsl:when test="string(//tei:note[@type='source'])">
                                 <p><xsl:apply-templates select="//tei:note[@type='source']"/>
@@ -79,7 +79,7 @@
                         
                        
 
-                        <h3>Concepts</h3>
+                        <h2 class="h4">Concepts</h2>
                         
                         <xsl:choose>
                             <xsl:when test="//tei:seg">
@@ -151,7 +151,7 @@
     </xsl:template>
 
     <xsl:template match="tei:head[preceding::tei:div1]">
-        <h2>
+        <h2 class="h3">
             <xsl:apply-templates/>
         </h2>
     </xsl:template>
@@ -310,7 +310,11 @@
                 <span class="hr">&#160;</span>
                 <span class="pageimage">
                     <a href="{$siteroot}figures/pages/fullsize/{@xml:id}.jpg" rel="prettyPhoto[pp_gal]">
-                        <img src="{$siteroot}figures/pages/thumbnails/{@xml:id}.jpg" alt="Scanned image of "/>
+                        <img src="{$siteroot}figures/pages/thumbnails/{@xml:id}.jpg">
+<xsl:attribute name="alt">
+<xsl:text>Scanned image of </xsl:text>
+<xsl:value-of select="//tei:title[@type='main']" />
+</xsl:attribute></img>
                         <br/>
                         <xsl:if test="@n != 'unknown'">
                             [p. <xsl:value-of select="@n"></xsl:value-of>]</xsl:if>
