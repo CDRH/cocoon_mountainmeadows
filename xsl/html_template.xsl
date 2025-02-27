@@ -89,7 +89,7 @@
         </div>
     </header>
 	
-	<main>
+	<main id="main_content">
         <div class="body-wrapper">
             <div class="bodyContent">
         		<xsl:copy-of select="//body" />
