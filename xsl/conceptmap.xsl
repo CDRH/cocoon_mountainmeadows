@@ -100,7 +100,7 @@
       <xsl:variable name="document" select="." />
       <html>
       <body>
-        <h2>Narrative Map</h2>        
+        <h1>Narrative Map</h1>        
           <p>Note: This concept map is a prototype and contains only a sampling of data. </p>
         <p>
         

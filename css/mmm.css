@@ -35,12 +35,8 @@ a:hover {
 
 div#titleBlock {
 	background: url(../web-images/images/title_bg.jpg) top left no-repeat #130B09;
-	; height: 257px;
+	height: 257px;
 	position: relative;
-}
-
-div#titleBlock h1 {
-	display: none;
 }
 
 div#titleBlock ul.mainMenu {

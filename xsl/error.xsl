@@ -16,7 +16,7 @@
 <title>404: Page not found</title>  
   </head>
   <body>
-  <h2>ERROR<br/><em>Page not found</em></h2>
+  <h1>ERROR<br/><em>Page not found</em></h1>
   <p class="error">This website is a work in progress. As such, certain links will lead to pages that are currently still in development. We apologize for any inconvenience and hope that you check back often as we finalize work on these pages.
   </p>
   

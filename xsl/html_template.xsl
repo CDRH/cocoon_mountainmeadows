@@ -62,7 +62,7 @@
      </div>
         <div class="body-wrapper">
             <div id="titleBlock">
-            	<h1><span>&quot;Horrible Massacre of Emigrants!!&quot; The Mountain Meadows Massacre in Public Discourse</span></h1>
+            	<span class="site-title sr-only sr-only-focusable">&quot;Horrible Massacre of Emigrants!!&quot; The Mountain Meadows Massacre in Public Discourse</span>
             	
             	<nav aria-label="Main Menu">
                     <ul class="mainMenu">

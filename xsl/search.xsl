@@ -10,7 +10,7 @@
         
         <html>
             <body>
-                <h2>Search</h2>
+                <h1>Search</h1>
                 
                  
                     <p>

@@ -11,14 +11,15 @@
 
   <html>
   <body>
-  <h2>Browse</h2>
+  <h1>Browse</h1>
 
   
 
 
 <div class="twoCol">
 <div class="menuSide">
-<h4>Document Type</h4>
+<h2 class="h4" id="document_type">Document Type</h2>
+<nav aria-labelledby="document_type">
 <ul>
 <li class="selected">Newspaper Accounts (<xsl:value-of select="count(//document)" />)</li>
 <li>Anti-mormon Publications (0)</li>
@@ -26,6 +27,7 @@
 <li>Fiction (0)</li>
 <li>Film (0)</li>
 </ul>  
+</nav>
   </div>
   <div class="contentSide">
   <table>
