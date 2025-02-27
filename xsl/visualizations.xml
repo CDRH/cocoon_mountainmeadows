@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <html>
 <body>
-<h2>Visualizations</h2>
+<h1>Visualizations</h1>
 
 <div class="visualizationsCol">
   <p>
@@ -18,9 +18,11 @@
 </div>
 
 <div class="menuSide">
-  <h3><a href="http://mountainmeadows.unl.edu/visualizations/wordclouds/index.html">Word Clouds</a></h3>
+<nav aria-label="Visualizations Menu">
+<ul class="visualizations-menu">
+  <li class="h3"><a href="http://mountainmeadows.unl.edu/visualizations/wordclouds/index.html">Word Clouds</a></li>
   <!--<h3><a href="http://mountainmeadows.unl.edu/visualizations/timelines/index.html">Timeline</a></h3>-->
-  <h3><a href="http://mountainmeadows.unl.edu/visualizations/narrativemap/index.html">Narrative Map</a></h3>
+  <li class="h3"><a href="http://mountainmeadows.unl.edu/visualizations/narrativemap/index.html">Narrative Map</a></li></ul></nav>
 </div>
 
 </body>
